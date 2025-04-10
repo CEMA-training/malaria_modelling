@@ -1,0 +1,8 @@
+---
+title: "Purity Wambui"
+subtitle: "Centre for Epidemiological Modelling and Analysis (CEMA)"
+image: headshots/purity-wambui.jpg
+categories:
+  - Operations
+
+---

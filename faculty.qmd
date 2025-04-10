@@ -1,0 +1,35 @@
+---
+title: "Faculty"
+html:
+    include-in-header:
+      - text: |
+          <script src="js/participant-popup.js"></script>
+listing:
+  id: attendees
+  contents:
+    - "faculty/*.qmd"
+  type: grid
+  image-height: 300px
+  grid-columns: 4
+  grid-item-align: center
+  fields: [image, title, subtitle, categories]
+  max-items: 100
+  page-size: 64
+  sort: title asc
+  #image-shape: round
+sidebar: false
+
+
+---
+
+
+# Faculty
+
+
+---
+
+::: {#attendees}
+:::
+
+---
+

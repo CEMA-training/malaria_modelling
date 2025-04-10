@@ -1,0 +1,9 @@
+---
+title: "Tabitha Okech"
+subtitle: "Centre for Epidemiological Modelling and Analysis (CEMA)"
+image: headshots/tabitha-okech.jpg
+categories:
+  - Faculty
+
+---
+

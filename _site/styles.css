@@ -1,0 +1,235 @@
+/* css styles */
+
+.quarto-title {
+  text-align: center;
+  display: none !important;
+}
+
+.quarto-title-banner {
+  padding-top: 1.8em;
+  padding-bottom: 1.5em;
+}
+
+.quarto-grid-item, .card-img {
+  border-radius: 10px!important;
+}
+
+/* Participant grid styling */
+#attendees .quarto-grid-item {
+  cursor: pointer;
+  position: relative;
+  transition: transform 0.3s ease;
+  margin-bottom: 2rem;
+}
+
+#attendees .quarto-grid-item:hover {
+  transform: translateY(-5px);
+}
+
+/* Round participant profile images */
+#attendees .quarto-grid-item .card-img {
+  border-radius: 50% !important;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border: 3px solid #27AAE1;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  overflow: hidden; /* Ensures content doesn't overflow the rounded borders */
+}
+
+/* Make sure the parent container doesn't clip the rounded borders */
+#attendees .quarto-grid-item .card-img-top {
+  border-radius: 50% !important;
+  overflow: hidden;
+}
+
+/* Ensure image container also has rounded borders */
+#attendees .quarto-grid-item .card-img-container {
+  border-radius: 50% !important;
+  overflow: hidden;
+}
+
+/* Force the border-radius even if other styles try to override it */
+#attendees .quarto-grid-item img.card-img {
+  border-radius: 50% !important;
+}
+
+#attendees .quarto-grid-item:hover .card-img {
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+#attendees .card-body {
+  text-align: center;
+}
+
+/* Add a view profile button */
+#attendees .card-body::after {
+  content: "View Profile";
+  display: inline-block;
+  background-color: #27AAE1;
+  color: white;
+  padding: 5px 15px;
+  border-radius: 20px;
+  font-size: 0.8em;
+  margin-top: 10px;
+  transition: background-color 0.3s ease;
+}
+
+#attendees .quarto-grid-item:hover .card-body::after {
+  background-color: #1d8ab5;
+}
+
+/* The Modal (background) */
+.participant-modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1000; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  backdrop-filter: blur(5px);
+}
+
+/* Modal Content */
+.participant-modal-content {
+  background-color: #fefefe;
+  margin: 10% auto; /* 10% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  border-radius: 10px;
+  width: 80%; /* Could be more or less, depending on screen size */
+  max-width: 700px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  animation: modalopen 0.4s;
+  position: relative;
+}
+
+/* Modal Animation */
+@keyframes modalopen {
+  from {opacity: 0; transform: translateY(-30px);}
+  to {opacity: 1; transform: translateY(0);}
+}
+
+/* The Close Button */
+.participant-modal-close {
+  color: #aaa;
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 28px;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.participant-modal-close:hover,
+.participant-modal-close:focus {
+  color: #27AAE1;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Profile image in modal */
+.participant-modal-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 5px solid #27AAE1;
+  margin: 0 auto 20px;
+  display: block;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Profile header in modal */
+.participant-modal-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.participant-modal-header h2 {
+  color: #27AAE1;
+  margin-bottom: 5px;
+}
+
+.participant-modal-header h3 {
+  color: #666;
+  font-weight: normal;
+  margin-top: 0;
+}
+
+/* Profile details container */
+.participant-modal-details {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.participant-modal-bio {
+  flex: 2;
+  min-width: 300px;
+}
+
+.participant-modal-info {
+  flex: 1;
+  min-width: 200px;
+  background-color: #f9f9f9;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+/* Other styles */
+#quarto-announcement {
+  align-items: self-end;
+}
+
+.title, .lead {
+  color: black!important;
+}
+
+.description {
+  text-align: center;
+}
+
+.listing-subtitle {
+  font-size: 80%;
+}
+
+.nav-link:hover, .nav-link:focus {
+  color: #27AAE1;
+}
+
+.nav-link {
+  padding-left: 0.9rem !important;
+}
+
+.quarto-title .quarto-categories {
+  display: inline-grid;
+}
+
+.menu-text {
+  font-size: x-large;
+}
+
+.quarto-announcement-icon {
+  padding-left: 2em;
+}
+
+.quarto-about-jolla.column-page img[src="images/logos.png"] {
+  display: none !important;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .participant-modal-content {
+    width: 95%;
+    margin: 5% auto;
+  }
+
+  .participant-modal-details {
+    flex-direction: column;
+  }
+}

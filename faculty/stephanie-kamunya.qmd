@@ -1,0 +1,9 @@
+---
+title: "Stephanie Kamunya"
+subtitle: "Centre for Epidemiological Modelling and Analysis (CEMA)"
+image: headshots/stephanie-kamunya.jpg
+categories:
+  - Faculty
+
+---
+

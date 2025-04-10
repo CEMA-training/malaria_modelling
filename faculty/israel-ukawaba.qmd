@@ -1,0 +1,11 @@
+---
+title: "Israel Ukawaba"
+subtitle: "Swiss Tropical and Public Health Institute"
+image: headshots/israel-ukawaba.jpg
+categories:
+  - Faculty
+
+
+---
+
+

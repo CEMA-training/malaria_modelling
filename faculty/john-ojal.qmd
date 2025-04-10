@@ -1,0 +1,7 @@
+---
+title: "John Ojal"
+subtitle: "Kenya Medical Research Institute - Wellcome Trust"
+image: headshots/john-ojal.jpg
+categories:
+  - Faculty
+---

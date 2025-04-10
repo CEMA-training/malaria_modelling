@@ -1,0 +1,9 @@
+---
+title: "Thumbi Mwangi"
+subtitle: "Centre for Epidemiological Modelling and Analysis (CEMA)"
+image: headshots/thumbi-mwangi.jpg
+categories:
+  - Faculty
+
+---
+

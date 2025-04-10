@@ -1,0 +1,8 @@
+---
+title: "Njoki Kimani"
+subtitle: "Centre for Epidemiological Modelling and Analysis (CEMA)"
+image: headshots/njoki-kimani.jpg
+categories:
+  - Faculty
+
+---

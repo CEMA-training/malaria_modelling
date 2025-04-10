@@ -1,0 +1,75 @@
+---
+title: "Mathematical Modelling of Infectious Diseases (Malaria)"
+subtitle: "18 -29 August 2025, Nairobi, Kenya"
+format:
+  html:
+    page-layout: full
+---
+
+
+<div style="text-align: center;">
+  <h1>Mathematical Modelling of Infectious Diseases (Malaria)</h1>
+  <p class="subtitle lead">18th - 29th August 2025</p>
+</div>
+
+---
+
+![](images/logos.png){ width=860px style="display: block; margin: 0 auto;" }
+
+---
+
+
+
+## Background
+
+The [Center for Epidemiological Modelling and Analysis](https://cema-africa.uonbi.ac.ke/) (CEMA) at the University of Nairobi, in collaboration with the [Swiss Tropical And Public Health Institute](https://www.swisstph.ch/en/) (Swiss TPH) is hosting a specialized training course on mathematical modelling of infectious diseases, focusing on Malaria. It will be a two-week event that will host participants from malaria-endemic African countries and is open to researchers and health science professionals with quantitative backgrounds in mathematics, statistics, epidemiology, and data science. The course will cover infectious disease modelling theory, specifically malaria, and provide hands-on experience with R programming and model simulations. Participants will apply their learning through guided projects applicable to their specific areas of interest in mathematical modelling of malaria.
+
+## Learning objectives:
+
+The course aims to provide participants with a comprehensive understanding and practical skills in epidemiology, mathematical modelling of diseases, R coding, simulation algorithms, health economic evaluation, and practical policy communication, specifically tailored to the context of malaria control and elimination. The course will also introduce the participants to real-life cases on the application of malaria country modelling. Curriculum:
+
+1. Introduction to public health, epidemiology, and infectious disease modelling
+- Definitions of public health, epidemiology, & models and how they relate.
+- Fundamental principles and terminology in epidemiology.
+- Methods for measuring disease frequency.
+- Epidemiology study designs and their applications in epidemiology.
+- Role of epidemiology in public health and disease control.
+
+2. Foundational concepts and methodologies of mathematical modelling of infectious diseases
+- Grasp the basic principles of mathematical modelling in infectious diseases.
+- Introduction: Learn about compartmental models (e.g., SEIR, SIS) and their applications.
+- Develop skills in constructing and analyzing simple infectious disease models (malaria).
+- Understand how (malaria) modelling can inform public health decisions and interventions.
+
+3. R coding for data management / data analysis / version control
+- R for data wrangling and visualizing epidemiological and modelling data,
+- Coding and simulating mathematical models of infectious diseases in R, including implementing numerical methods for solving differential equations and calibrating models with empirical data.
+- Version control using Git and GitHub to manage and share R code, including creating repositories, committing changes, branching, and conducting code reviews.
+- Reproducible analysis in R using R Markdown and interactive visualizations in R shiny.
+
+4. Gain expertise in malaria-specific modelling applied to strategic decision making
+- Understand and apply fundamental principles of malaria-specific mathematical models, including the Ross-Macdonald model.
+- Acquire practical skills in constructing, parameterizing, and analyzing malaria transmission models and use these models to evaluate the effectiveness of various intervention strategies.
+- Gain expertise in scenario and intervention modelling and how this could be applied to decision-making.
+- Interpretation of model outputs, model validation with empirical data, and effective communication of findings to inform public health policies and interventions.
+
+5. Health Economic Evaluation
+- Understand the principles of health economic evaluation and its role in public health decision-making.
+- Learn different costing approaches and methods for estimating healthcare costs.
+- Develop skills in measuring health outcomes, including the use of quality-adjusted life years (QALYs) and disability-adjusted life years (DALYs).
+- Gain expertise in modelling for economic evaluation, applying cost-effectiveness analysis to malaria interventions and policy decisions
+
+6. Learn techniques for effectively communicating complex modelling insights
+- Develop strategies for presenting data and model results to stakeholders.
+- Enhance skills in writing clear, concise policy briefs and reports.
+- Build confidence in advocating for evidence-based public health decisions.
+
+## Funding
+
+We are extremely grateful to our sponsors:
+
+- AMMNET Large Award events to support capacity building in high burden countries.
+
+- The Gates Foundation (INV-044079) for CEMA.
+
+---

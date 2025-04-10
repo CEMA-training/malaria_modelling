@@ -1,0 +1,8 @@
+---
+title: "Ivy Kombe"
+subtitle: "Kenya Medical Research Institute - Wellcome Trust"
+image: headshots/ivy-kombe.jpg
+categories:
+  - Faculty
+
+---

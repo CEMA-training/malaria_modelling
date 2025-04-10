@@ -1,0 +1,9 @@
+---
+title: "Mutono Nyamai"
+subtitle: "Centre for Epidemiological Modelling and Analysis (CEMA)"
+image: headshots/mutono-nyamai.jpg
+categories:
+  - Faculty
+email:
+  mutono.nyamai@uonbi.ac.ke
+---

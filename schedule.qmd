@@ -1,0 +1,156 @@
+---
+title: Course schedule
+---
+
+
+---
+title: "Course Schedule"
+format: html
+---
+
+# Mathematical Modelling of Infectious Diseases (Malaria)
+
+This intensive two-week program provides comprehensive training in mathematical modeling of infectious diseases with a focus on malaria. The curriculum covers fundamental concepts in epidemiology, advanced modelling techniques, economic evaluation, and effective communication of modelling results to stakeholders.
+
+## Week 1
+
+### Day 1: Introduction to Epidemiology (Monday, August 18)
+
+| Time | Activity | Facilitator(s) |
+|------|----------|----------------|
+| 08:00 - 09:00 | Ice-breaker Session | Purity |
+| 09:00 - 11:00 | **Lesson 1:** Definitions of public health, epidemiology, & models; Fundamental principles and terminology; Methods for measuring disease frequency | George Paul |
+| 11:00 - 11:30 | *Coffee Break* | |
+| 11:30 - 13:30 | **Lesson 2:** Role of epidemiology in public health & disease control; Epidemiology study designs and their applications | Geoffrey/Alice |
+| 13:30 - 14:30 | *Lunch Break* | |
+| 14:30 - 16:30 | **Lesson 3:** R programming fundamentals and data visualization | Njoki/Alice |
+| 16:30 - 17:00 | Trainer Session | |
+
+### Day 2: Basics of Infectious Disease Modelling (Tuesday, August 19)
+
+| Time | Activity | Facilitator(s) |
+|------|----------|----------------|
+| 08:00 - 10:00 | **Lesson 4:** Introduction to mathematical modelling (role of modelling and types of models); Introduction to generic compartmental models | Geoffrey/Billy |
+| 10:00 - 10:30 | *Coffee Break* | |
+| 10:30 - 12:30 | **Lesson 5:** Model construction - constructing a simple malaria model (SIS diagrams) | STPH (Emilie, Cameline, Billy)/Njoki |
+| 12:30 - 13:30 | *Lunch Break* | |
+| 13:30 - 15:30 | **Lesson 6:** Flow diagram to differential equations (simple malaria model) | STPH (Emilie, Cameline, Billy)/Njoki |
+| 15:30 - 16:00 | *Coffee Break* | |
+| 16:00 - 17:00 | Tutorial on generic compartmental models | |
+
+### Day 3: Introduction to Malaria Modelling (Wednesday, August 20)
+
+| Time | Activity | Facilitator(s) |
+|------|----------|----------------|
+| 08:00 - 10:00 | **Lesson 7:** Constructing and analyzing simple infectious disease models (coding, solving equations) | STPH (Emilie, Cameline, Billy)/John Ojal |
+| 10:00 - 10:30 | *Coffee Break* | |
+| 10:30 - 12:30 | **Lesson 8:** Elementary vector-host model (malaria model) | Stephanie/John O |
+| 12:30 - 13:30 | *Lunch Break* | |
+| 13:30 - 15:30 | **Lesson 9:** Adding complexity to malaria models (age, seasonality, immunity, treatment) | Stephanie/John O |
+| 15:30 - 16:00 | *Coffee Break* | |
+| 16:00 - 17:00 | Tutorial Session | |
+
+### Day 4: Model Integration of Malaria Interventions (Thursday, August 21)
+
+| Time | Activity | Facilitator(s) |
+|------|----------|----------------|
+| 08:00 - 10:00 | **Lesson 10:** Interventions of malaria models | STPH/Stephanie |
+| 10:00 - 10:30 | *Coffee Break* | |
+| 10:30 - 12:30 | **Lesson 11:** Scenario analysis | STPH/Stephanie |
+| 12:30 - 13:30 | *Lunch Break* | |
+| 13:30 - 15:30 | **Lesson 12:** Version control using Git and GitHub to manage and share R code | Alice |
+| 15:30 - 16:00 | *Coffee Break* | |
+| 16:00 - 17:00 | Introduction to Group Projects | Cameline/STPH/Mutono |
+
+### Day 5: Sensitivity Analysis & R Coding (Friday, August 22)
+
+| Time | Activity | Facilitator(s) |
+|------|----------|----------------|
+| 08:00 - 10:00 | **Lesson 14:** Sensitivity analysis | Ivy/Mutono |
+| 10:00 - 10:30 | *Coffee Break* | |
+| 10:30 - 12:30 | **Lesson 15:** Reproducible analysis in R using R Markdown and interactive visualizations | Geoffrey |
+| 12:30 - 13:30 | *Lunch Break* | |
+| 13:30 - 15:30 | Group Project Work | Cameline/STPH/Mutono |
+| 15:30 - 16:00 | *Coffee Break* | |
+| 16:00 - 17:00 | Trainer Session | |
+
+### Day 6: Group Projects (Saturday, August 23)
+
+| Time | Activity | Facilitator(s) |
+|------|----------|----------------|
+| 08:30 - 09:30 | Practicals: Simulating a malaria model | STPH/Stephanie |
+| 09:30 - 10:00 | *Coffee Break* | |
+| 10:00 - 13:00 | Group Project Work | Cameline/STPH/Mutono |
+
+### Day 7: Excursion (Sunday, August 24)
+
+*Full day excursion and recreational activities*
+
+## Week 2
+
+### Day 8: Model Fitting and Validation (Monday, August 25)
+
+| Time | Activity | Facilitator(s) |
+|------|----------|----------------|
+| 08:00 - 10:00 | **Lesson 16:** Introduction to parameterising a model | John Ojal |
+| 10:00 - 10:30 | *Coffee Break* | |
+| 10:30 - 12:30 | **Lesson 17:** Introduction to model fitting and Frequentists methods (LSE and MLE) | John Ojal/Emilie/STPH |
+| 12:30 - 13:30 | *Lunch Break* | |
+| 13:30 - 15:30 | **Lesson 18:** Interactive visualizations in R shiny/Dashboard | Geoffrey/Emilie/STPH |
+| 15:30 - 16:00 | *Coffee Break* | |
+| 16:00 - 17:00 | Trainer Session | |
+
+### Day 9: Model Fitting Using Bayesian Methods (Tuesday, August 26)
+
+| Time | Activity | Facilitator(s) |
+|------|----------|----------------|
+| 08:00 - 10:00 | **Lesson 19:** Empirical data to fit malaria models via Bayesian methods | Emilie/STPH |
+| 10:00 - 10:30 | *Coffee Break* | |
+| 10:30 - 12:30 | Group Project Work | |
+| 12:30 - 13:30 | *Lunch Break* | |
+| 13:30 - 15:30 | **Lesson 20:** Introduction to Network Modeling in Epidemiology | George Paul/Billy |
+| 15:30 - 16:00 | *Coffee Break* | |
+| 16:00 - 17:00 | **Lesson 21:** Network Models in Malaria Epidemiology | George Paul/Billy |
+
+### Day 10: Health Economic Evaluation and Analysis (Wednesday, August 27)
+
+| Time | Activity | Facilitator(s) |
+|------|----------|----------------|
+| 08:00 - 10:00 | **Lesson 22:** Principles of Health Economic Evaluation | Patricia |
+| 10:00 - 10:30 | *Coffee Break* | |
+| 10:30 - 12:30 | **Lesson 23:** Costing Approaches and Methods | Patricia |
+| 12:30 - 13:30 | *Lunch Break* | |
+| 13:30 - 15:30 | **Lesson 24:** Measuring Health Outcomes | Tabitha |
+| 15:30 - 16:00 | *Coffee Break* | |
+| 16:00 - 17:00 | Tutorial: Modelling for economic evaluation | Tabitha/John Ojal |
+
+### Day 11: Communication of Modelling Results (Thursday, August 28)
+
+| Time | Activity | Facilitator(s) |
+|------|----------|----------------|
+| 08:00 - 10:00 | **Lesson 25:** Strategies for presenting data and model results to stakeholders | Geoffrey/Cameline |
+| 10:00 - 10:30 | *Coffee Break* | |
+| 10:30 - 12:30 | **Lesson 26:** Writing clear, concise policy briefs and reports | Thumbi |
+| 12:30 - 13:30 | *Lunch Break* | |
+| 13:30 - 17:00 | Group Project Work | Cameline/STPH/Mutono |
+
+### Day 12: Final Presentations (Friday, August 29)
+
+| Time | Activity | Facilitator(s) |
+|------|----------|----------------|
+| 08:00 - 10:00 | Group Project Presentations | |
+| 10:00 - 10:30 | *Coffee Break* | |
+| 10:30 - 12:30 | Group Project Presentations | |
+| 12:30 - 13:30 | *Lunch Break* | |
+| 13:30 - 15:30 | Group Project Presentations | |
+| 15:30 - 16:00 | *Coffee Break* | |
+| 16:00 - 17:00 | Closing Lecture and Certificate Ceremony | |
+
+### Day 13: Departure (Saturday, August 30)
+
+*Checkout and departures*
+
+
+---
+
+*Note: This schedule is subject to minor adjustments based on the progress and needs of participants. Coffee and lunch breaks are scheduled to provide opportunities for informal discussions and networking.*

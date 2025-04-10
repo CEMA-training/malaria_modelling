@@ -1,0 +1,28 @@
+---
+title: "Participants"
+listing:
+  id: attendees
+  contents:
+    - "participants/*.qmd"
+  type: grid
+  image-height: 200px
+  grid-columns: 4
+  grid-item-align: center
+  fields: [image, title, subtitle, categories]
+  max-items: 100
+  page-size: 64
+  sort: title asc
+  #image-shape: round
+sidebar: false
+---
+
+# Participants
+
+
+---
+
+::: {#attendees}
+:::
+
+---
+

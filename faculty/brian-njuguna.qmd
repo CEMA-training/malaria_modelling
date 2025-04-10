@@ -1,0 +1,11 @@
+---
+title: "Brian Njuguna"
+subtitle: "Centre for Epidemiological Modelling and Analysis (CEMA)"
+image: headshots/brian-njuguna.jpg
+categories:
+  - Mentor
+
+
+---
+
+

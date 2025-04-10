@@ -1,0 +1,11 @@
+---
+title: "Emilie Pothin"
+subtitle: "Swiss Tropical and Public Health Institute"
+image: headshots/emilie-pothin.jpg
+categories:
+  - Faculty
+
+
+---
+
+

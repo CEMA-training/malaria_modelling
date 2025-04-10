@@ -1,0 +1,10 @@
+---
+title: "Geoffrey Githinji"
+subtitle: "Centre for Epidemiological Modelling and Analysis (CEMA)"
+image: headshots/geoffrey-githinji.jpg
+
+categories:
+  - Faculty
+
+---
+

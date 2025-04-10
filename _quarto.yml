@@ -1,0 +1,59 @@
+project:
+  type: website
+
+execute:
+  freeze: auto
+
+website:
+
+
+
+
+  navbar:
+    background: "#27AAE1"  # Background color for navbar (menu part)
+    alignment: "center"  # Center align menu items
+    pinned: true
+    left:
+
+      - text: "    "  # Empty spacer for left margin
+      - text: "    "  # Empty spacer for left margin
+      - text: "    "  # Empty spacer for left margin
+      - text: "    "  # Empty spacer for left margin
+      - text: "    "  # Empty spacer for left margin
+      - text: "    "  # Empty spacer for left margin
+      - text: "    "  # Empty spacer for left margin
+      - text: "    "  # Empty spacer for left margin
+      - text: "    "  # Empty spacer for left margin
+      - text: "    "  # Empty spacer for left margin
+      - text: "    "  # Empty spacer for left margin
+      - text: "    "  # Empty spacer for left margin
+      - text: "    "  # Empty spacer for left margin
+      - text: "    "  # Empty spacer for left margin
+      - text: "    "  # Empty spacer for left margin
+      - href: index.qmd
+        text: Home
+      - href: schedule.qmd
+        text: "Schedule"
+      - href: participants.qmd
+        text: "Participants"
+      - href: faculty.qmd
+        text: "Faculty"
+      #- href: materials.qmd
+      #  text: "Course materials"
+
+
+  back-to-top-navigation: true
+
+  body-footer: |
+    ![](images/logos.png){ width=860px style="display: block; margin: 0 auto;" }
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    include-in-header:
+      - text: |
+          <script src="js/participant-popup.js"></script>

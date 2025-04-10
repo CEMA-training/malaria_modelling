@@ -1,0 +1,10 @@
+---
+title: "George Paul Omondi"
+subtitle: "Centre for Epidemiological Modelling and Analysis (CEMA)"
+image: headshots/george-paul-omondi.jpg
+
+categories:
+  - Faculty
+
+---
+

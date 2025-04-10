@@ -1,0 +1,9 @@
+---
+title: "Patricia Nyokabi"
+subtitle: "Centre for Epidemiological Modelling and Analysis (CEMA)"
+image: headshots/patricia-nyokabi.jpg
+categories:
+  - Faculty
+
+---
+

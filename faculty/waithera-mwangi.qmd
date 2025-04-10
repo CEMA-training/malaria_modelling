@@ -1,0 +1,8 @@
+---
+title: "Waithera Mwangi"
+subtitle: "Centre for Epidemiological Modelling and Analysis (CEMA)"
+image: headshots/waithera-mwangi.jpg
+categories:
+  - Operations
+
+---
