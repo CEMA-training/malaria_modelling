@@ -1,171 +1,187 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2821
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
-
-\f0\fs24 \cf0 // JavaScript for participant popup functionality\
-document.addEventListener('DOMContentLoaded', function() \{\
-  // Create the modal HTML and add it to the body\
-  const modalHTML = `\
-    <div id="participantModal" class="participant-modal">\
-      <div class="participant-modal-content">\
-        <span class="participant-modal-close">&times;</span>\
-        <div class="participant-modal-header">\
-          <img src="" alt="" class="participant-modal-image" id="modal-participant-image">\
-          <h2 id="modal-participant-name"></h2>\
-          <h3 id="modal-participant-role"></h3>\
-        </div>\
-        <div class="participant-modal-details">\
-          <div class="participant-modal-bio">\
-            <h4>About Me</h4>\
-            <div id="modal-participant-content"></div>\
-          </div>\
-          <div class="participant-modal-info">\
-            <h4>Contact Information</h4>\
-            <div id="modal-participant-contact"></div>\
-          </div>\
-        </div>\
-      </div>\
-    </div>\
-  `;\
-  \
-  // Add modal HTML to body\
-  document.body.insertAdjacentHTML('beforeend', modalHTML);\
-  \
-  // Get modal elements\
-  const modal = document.getElementById('participantModal');\
-  const modalClose = document.querySelector('.participant-modal-close');\
-  const modalImage = document.getElementById('modal-participant-image');\
-  const modalName = document.getElementById('modal-participant-name');\
-  const modalRole = document.getElementById('modal-participant-role');\
-  const modalContent = document.getElementById('modal-participant-content');\
-  const modalContact = document.getElementById('modal-participant-contact');\
-  \
-  // Function to setup click events on grid items\
-  function setupGridItems() \{\
-    const gridItems = document.querySelectorAll('#attendees .quarto-grid-item');\
-    \
-    gridItems.forEach(item => \{\
-      item.addEventListener('click', function() \{\
-        // Get the link to the participant's page\
-        const link = this.querySelector('a').getAttribute('href');\
-        \
-        // Get basic info from the card\
-        const name = this.querySelector('.listing-title').textContent.trim();\
-        const role = this.querySelector('.listing-subtitle').textContent.trim();\
-        const image = this.querySelector('.card-img').getAttribute('src');\
-        \
-        // Set the basic info in the modal\
-        modalImage.src = image;\
-        modalImage.alt = name;\
-        modalName.textContent = name;\
-        modalRole.textContent = role;\
-        \
-        // Fetch the participant's page to get more details\
-        fetch(link)\
-          .then(response => response.text())\
-          .then(html => \{\
-            const parser = new DOMParser();\
-            const doc = parser.parseFromString(html, 'text/html');\
-            \
-            // Get the content from the participant's page\
-            const mainContent = doc.querySelector('main');\
-            \
-            // Remove the title (we already have it in the modal header)\
-            const title = mainContent.querySelector('h1');\
-            if (title) title.remove();\
-            \
-            // Clean up any metadata\
-            const metadata = mainContent.querySelector('.quarto-title-meta');\
-            if (metadata) metadata.remove();\
-            \
-            // Set content in modal\
-            modalContent.innerHTML = mainContent.innerHTML;\
-            \
-            // Try to find contact information\
-            let contactHTML = '';\
-            const contactHeading = Array.from(mainContent.querySelectorAll('h2, h3, h4')).find(\
-              heading => heading.textContent.toLowerCase().includes('contact')\
-            );\
-            \
-            if (contactHeading) \{\
-              // Get the contact section content\
-              let nextElement = contactHeading.nextElementSibling;\
-              contactHTML = '<ul>';\
-              \
-              while (nextElement && nextElement.tagName !== 'H2' && \
-                     nextElement.tagName !== 'H3' && nextElement.tagName !== 'H4') \{\
-                if (nextElement.tagName === 'UL') \{\
-                  // If it's a list, use its HTML\
-                  contactHTML = nextElement.outerHTML;\
-                  break;\
-                \} else if (nextElement.tagName === 'P') \{\
-                  // If it's a paragraph, add as list item\
-                  contactHTML += `<li>$\{nextElement.innerHTML\}</li>`;\
-                \}\
-                nextElement = nextElement.nextElementSibling;\
-              \}\
-              \
-              if (!nextElement || (nextElement.tagName !== 'UL')) \{\
-                contactHTML += '</ul>';\
-              \}\
-            \} else \{\
-              // If no contact section found, show a message\
-              contactHTML = '<p>No contact information available.</p>';\
-            \}\
-            \
-            modalContact.innerHTML = contactHTML;\
-            \
-            // Show the modal\
-            modal.style.display = 'block';\
-          \})\
-          .catch(error => \{\
-            console.error('Error fetching participant details:', error);\
-            // If fetch fails, just show basic info\
-            modalContent.innerHTML = '<p>Loading details failed. Please try again.</p>';\
-            modalContact.innerHTML = '<p>Contact information unavailable.</p>';\
-            modal.style.display = 'block';\
-          \});\
-      \});\
-    \});\
-  \}\
-  \
-  // Close modal when clicking close button\
-  modalClose.addEventListener('click', function() \{\
-    modal.style.display = 'none';\
-  \});\
-  \
-  // Close modal when clicking outside content\
-  window.addEventListener('click', function(event) \{\
-    if (event.target === modal) \{\
-      modal.style.display = 'none';\
-    \}\
-  \});\
-  \
-  // Close modal with Escape key\
-  document.addEventListener('keydown', function(event) \{\
-    if (event.key === 'Escape' && modal.style.display === 'block') \{\
-      modal.style.display = 'none';\
-    \}\
-  \});\
-  \
-  // Set up initial grid items\
-  setupGridItems();\
-  \
-  // Use MutationObserver to detect when new grid items are added (pagination)\
-  const observer = new MutationObserver(function(mutations) \{\
-    mutations.forEach(function(mutation) \{\
-      if (mutation.type === 'childList') \{\
-        setupGridItems();\
-      \}\
-    \});\
-  \});\
-  \
-  // Start observing the grid for changes\
-  const attendeesContainer = document.getElementById('attendees');\
-  if (attendeesContainer) \{\
-    observer.observe(attendeesContainer, \{ childList: true, subtree: true \});\
-  \}\
-\});}
+document.addEventListener('DOMContentLoaded', function() {
+  // Create modal container once
+  const modal = document.createElement('div');
+  modal.className = 'faculty-modal';
+  modal.innerHTML = `
+    <div class="faculty-modal-content">
+      <span class="faculty-modal-close">&times;</span>
+      <div class="faculty-modal-body"></div>
+    </div>
+  `;
+  document.body.appendChild(modal);
+  
+  const modalBody = modal.querySelector('.faculty-modal-body');
+  const closeBtn = modal.querySelector('.faculty-modal-close');
+  
+  // Add modal styles
+  const styleSheet = document.createElement('style');
+  styleSheet.textContent = `
+    .faculty-modal {
+      display: none;
+      position: fixed;
+      z-index: 1000;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgba(0,0,0,0.7);
+    }
+    
+    .faculty-modal-content {
+      position: relative;
+      background-color: #fefefe;
+      margin: 10% auto;
+      padding: 20px;
+      border-radius: 8px;
+      width: 70%;
+      max-width: 800px;
+      animation: modalFadeIn 0.3s;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+    }
+    
+    @keyframes modalFadeIn {
+      from {opacity: 0; transform: translateY(-20px);}
+      to {opacity: 1; transform: translateY(0);}
+    }
+    
+    .faculty-modal-close {
+      position: absolute;
+      right: 15px;
+      top: 10px;
+      color: #aaa;
+      font-size: 28px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    
+    .faculty-modal-close:hover {
+      color: #000;
+    }
+    
+    .faculty-modal-body {
+      padding: 10px 0;
+    }
+    
+    .faculty-header {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    
+    .faculty-header img {
+      max-width: 200px;
+      border-radius: 8px;
+      margin-bottom: 15px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    
+    /* Hover effect for grid items */
+    .quarto-listing-container-grid .quarto-grid-item {
+      transition: transform 0.2s, box-shadow 0.2s;
+      cursor: pointer;
+    }
+    
+    .quarto-listing-container-grid .quarto-grid-item:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+  `;
+  document.head.appendChild(styleSheet);
+  
+  // Close modal when clicking the X
+  closeBtn.addEventListener('click', function() {
+    modal.style.display = 'none';
+  });
+  
+  // Close modal when clicking outside
+  window.addEventListener('click', function(event) {
+    if (event.target === modal) {
+      modal.style.display = 'none';
+    }
+  });
+  
+  // Find all faculty grid items
+  const facultyLinks = document.querySelectorAll('.quarto-listing-container-grid a[href*=".html"]');
+  
+  facultyLinks.forEach(function(link) {
+    link.addEventListener('click', async function(e) {
+      e.preventDefault(); // Prevent navigation
+      
+      try {
+        // Get the href
+        const url = link.getAttribute('href');
+        
+        // Extract essential info from the current card
+        const name = link.querySelector('.listing-title')?.textContent || '';
+        const affiliation = link.querySelector('.listing-subtitle')?.textContent || '';
+        const image = link.querySelector('img')?.src || '';
+        const category = link.querySelector('.listing-category')?.textContent || '';
+        
+        // Create header with faculty image
+        const facultyHeader = `
+          <div class="faculty-header">
+            <img src="${image}" alt="${name}">
+            <h2>${name}</h2>
+            <p>${affiliation}</p>
+            <p><strong>${category}</strong></p>
+          </div>
+          <hr>
+        `;
+        
+        // Show a loading message with the header
+        modalBody.innerHTML = facultyHeader + '<div style="text-align:center;padding:30px;">Loading additional information...</div>';
+        modal.style.display = 'block';
+        
+        // Try to fetch the full profile
+        try {
+          const response = await fetch(url);
+          const html = await response.text();
+          
+          // Parse the HTML
+          const parser = new DOMParser();
+          const doc = parser.parseFromString(html, 'text/html');
+          
+          // Extract the main content
+          const content = doc.querySelector('main') || doc.querySelector('article');
+          
+          if (content) {
+            // Create a temporary container
+            const tempDiv = document.createElement('div');
+            tempDiv.innerHTML = content.innerHTML;
+            
+            // Remove the logos section (targeting common containers that might contain it)
+            const logosSection = tempDiv.querySelector('img[src*="CEMA"], img[src*="Swiss"], img[src*="AMM"]')?.closest('div');
+            if (logosSection) {
+              logosSection.remove();
+            }
+            
+            // Remove any horizontal lines at the bottom that may be related to the logos section
+            const horizontalLines = tempDiv.querySelectorAll('hr');
+            if (horizontalLines.length > 0) {
+              // Remove the last horizontal line if it might be before the logos
+              horizontalLines[horizontalLines.length - 1].remove();
+            }
+            
+            // Add the header to the cleaned content
+            modalBody.innerHTML = facultyHeader + tempDiv.innerHTML;
+          } else {
+            // If we can't find more content, just keep the header we already displayed
+            modalBody.innerHTML = facultyHeader + `
+              <div style="text-align:center;padding:10px;">
+                <p>No additional information available.</p>
+              </div>
+            `;
+          }
+        } catch (fetchError) {
+          // If fetch fails, we already have the basic info displayed
+          console.error('Error fetching profile details:', fetchError);
+        }
+      } catch (error) {
+        console.error('Error showing faculty modal:', error);
+      }
+    });
+  });
+});

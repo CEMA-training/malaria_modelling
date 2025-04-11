@@ -7,3 +7,7 @@ categories:
 email:
   mutono.nyamai@uonbi.ac.ke
 ---
+
+Mutono is a Senior Research Fellow at the Centre for Epidemiological Modelling and Analysis (CEMA) at the University of Nairobi, and an Assistant Professor at the Paul G Allen School for Global Health, Washington State University. She specializes in applied epidemiological modeling to generate evidence to guide and support the control and elimination of neglected tropical diseases (NTDs). Her current research focuses on estimating the burden of visceral leishmaniasis in East Africa and identifying suitable habitat areas for its transmission, modeling to develop tailored treatment strategies for schistosomiasis and soil-transmitted helminths, and works in close collaboration with the Ministry of Health in Kenya. Additionally, she is an active member of the NTD Modelling Consortium and the African Modelling Network for NTDs, contributing to collaborative efforts that accelerate progress toward NTD elimination goals in Africa.
+
+She holds a PhD from the University of Nairobi, an MSc in Data Analytics from the University of Glasgow and an MSc in Environment Governance from the University of Nairobi.

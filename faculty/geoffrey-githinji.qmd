@@ -8,3 +8,4 @@ categories:
 
 ---
 
+Geoffrey is a research fellow in Malaria Interventions Modelling. In this role, he is supporting national malaria control programs by leveraging disease modelling and data analytics to inform strategic decisions and operational plans. Dr. Githinji brings extensive experience from the National Malaria Control Program in Kenya and his recent work with Swiss TPH's Analytics and Intervention Modelling Team. His expertise spans infectious disease modelling, data analytics, and public health surveillance. With a background that uniquely combines clinical practice, field epidemiology, and mathematical modelling, he is well-positioned to translate data analysis and modelling outputs into actionable intervention policies for malaria control in endemic countries.

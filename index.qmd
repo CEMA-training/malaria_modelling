@@ -6,7 +6,6 @@ format:
     page-layout: full
 ---
 
-
 <div style="text-align: center;">
   <h1>Mathematical Modelling of Infectious Diseases (Malaria)</h1>
   <p class="subtitle lead">18th - 29th August 2025</p>
@@ -17,8 +16,6 @@ format:
 ![](images/logos.png){ width=860px style="display: block; margin: 0 auto;" }
 
 ---
-
-
 
 ## Background
 

@@ -7,3 +7,41 @@ categories:
 
 ---
 
+Thumbi Mwangi is an infectious disease epidemiologist combining classical epidemiology, applied epidemiological modelling and data science to improve the speed and quality of policy decision making in human and animal health. His research program conducts population-based studies, statistical and mathematical tools to understand the epidemiology, optimize surveillance and control of zoonotic diseases.
+
+His current research includes:
+- implementation research for the elimination of dog-mediated human rabies
+- optimal use and placement of primary healthcare services
+- improvement of essential health services
+- syndromic surveillance for early detection of zoonotic spillover
+- transmission and control of animal and human brucellosis
+- livestock interventions for improvement of human nutritional status
+- transmission dynamics and control of SARS-CoV2 in Kenya
+- analytics and epidemiological modelling to support elimination of preventative chemotherapy Neglected Tropical Diseases (NTD) in Africa, working in collaboration with the NTD modelling consortium
+
+
+He serves as the Chair of the National Technical Committee on Modelling advising the Kenya government on COVID-19 responses, member of the National Rabies Elimination Coordination Committee charged with oversight of the implementation of the rabies elimination strategy for Kenya, and member of Kenya’s Zoonotic Technical Working Group. Internationally, he is a member of the Africa CDC COVID-19 modelling group, member of the Technical Review Committee of the African Union Africa Risk Capacity - epidemics and outbreaks program. He has served as a member of the World Health Organization (WHO) rabies modelling consortium, and a member of WHO Rabies Expert Group that reviewed and updated the current WHO rabies guidelines.
+
+His research has been funded by the:
+
+- Wellcome Trust
+
+- Bill and Melinda Gates Foundation
+
+- World Health Organization
+
+- UK Global Challenges Research Fund
+
+- Kenya National Research Fund
+
+- Paul G Allen Family Foundation
+
+- UK Medical Research Council
+
+- Scottish Funding Council
+
+- USAID
+
+- Sanofi Pasteur
+
+- the German Research Foundation.

@@ -8,4 +8,4 @@ categories:
 
 ---
 
-
+Brian is a data Scientist with a Bachelor of Science in Statistics from Egerton University. He has a deep fascination with machine learning and statistics modelling, constantly seeking opportunities to expand his knowledge in these fields.

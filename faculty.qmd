@@ -1,9 +1,9 @@
 ---
 title: "Faculty"
 html:
-    include-in-header:
-      - text: |
-          <script src="js/participant-popup.js"></script>
+  include-in-header:
+    - text: |
+        <script src="js/participant-popup.js"></script>
 listing:
   id: attendees
   contents:
@@ -18,7 +18,6 @@ listing:
   sort: title asc
   #image-shape: round
 sidebar: false
-
 
 ---
 

@@ -6,3 +6,7 @@ categories:
   - Faculty
 
 ---
+
+Njoki is undertaking her Ph.D. in Infectious Disease Epidemiology at CEMA, focusing on the burden and control of COVID-19 in Kenya. She holds an MSc in Epidemiology from the Imperial College London and a medical degree from the University of Nairobi.
+She is also a Global South Fellow in the Preparedness and Response Division at CEPI. Her fellowship project is focused on designing and establishing a virtual Emergency Collaboration Environment (vECE), that will enhance collaboration, communication and coordination of an end-to-end vaccine response.
+She equally works in Kiambu County as the County epidemiologist and the county public health emergency operations center (PHEOC) manager.

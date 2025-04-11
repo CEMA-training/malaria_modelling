@@ -202,6 +202,9 @@
   color: #27AAE1;
 }
 
+
+
+
 .nav-link {
   padding-left: 0.9rem !important;
 }
@@ -233,3 +236,100 @@
     flex-direction: column;
   }
 }
+
+
+
+/* Add these styles for hover effect */
+.navbar a:hover, 
+.navbar .nav-item:hover, 
+.navbar .nav-link:hover,
+.navbar .active:hover,
+.navbar .nav-link.active:hover {
+    color: #000000 !important; /* Black text on hover */
+    background-color: #ffffff !important; /* White background on hover */
+}
+
+/* Style for active items */
+.navbar .active,
+.navbar .nav-link.active {
+    color: #000; /* Your original text color */
+    background-color: #ffffff !important; /* White background on hover */
+
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+@media (min-width: 992px) {
+    .navbar-nav {
+        flex-direction: row !important;
+        -webkit-flex-direction: row !important;
+        justify-content: center;
+        -webkit-justify-content: center;
+        width: 100%;
+    }
+    
+    /* Center the entire navbar container */
+    .navbar,
+    .navbar-collapse {
+        justify-content: center;
+        -webkit-justify-content: center;
+    }
+}
+
+/* Enhanced navbar styling */
+.navbar {
+    background-color: #27aae1; /* Keep your existing blue color */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    padding: 0; /* Remove default padding */
+}
+
+/* Style individual nav items */
+.navbar-nav .nav-item .nav-link {
+    transition: all 0.3s ease; /* Smooth transition for all changes */
+    border-bottom: 3px solid transparent; /* Invisible border by default */
+    letter-spacing: 0.5px; /* Slight letter spacing */
+}
+
+/* Hover effect with underline and subtle background */
+.navbar-nav .nav-item .nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.1); /* Subtle light background */
+    border-bottom: 3px solid #fff; /* White underline on hover */
+}
+
+/* Active item styling */
+.navbar-nav .nav-item .nav-link.active {
+    background-color: rgba(255, 255, 255, 0.15); /* Slightly stronger background */
+    border-bottom: 3px solid #fff; /* White underline */
+    font-weight: 600; /* Make it slightly bolder than normal */
+}
+
+/* Add a slight grow effect on hover for additional polish */
+.navbar-nav .nav-item {
+    transition: transform 0.2s ease;
+}
+
+.navbar-nav .nav-item:hover {
+    transform: translateY(-2px); /* Move up slightly on hover */
+}
+
+/* If you want black text on white background on hover as mentioned earlier */
+.navbar-nav .nav-item .nav-link:hover {
+    color: #000; /* Black text */
+    background-color: #fff; /* White background */
+    border-bottom: 3px solid #27aae1; /* Blue underline to maintain brand connection */
+}
+
+/* Transition for the search icon if present */
+.navbar .search-icon {
+    transition: all 0.3s ease;
+}
+
+.navbar .search-icon:hover {
+    transform: scale(1.1);
+    color: #fff;
+}
+
+
+

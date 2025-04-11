@@ -4,8 +4,4 @@ subtitle: "Liverpool School of Tropical Medicine"
 image: headshots/alice-kamau.jpg
 categories:
   - Faculty
-
-
 ---
-
-

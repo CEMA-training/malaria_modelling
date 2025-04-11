@@ -7,3 +7,5 @@ categories:
 
 ---
 
+
+Stephanie is a postdoctoral research fellow at the Centre for Epidemiological Modelling and Analysis (CEMA). She holds a PhD from the University of Cape Town where her thesis focused on antimalarial drug discovery. She is currently focused on applying her experience in malaria research into mathematical modelling.

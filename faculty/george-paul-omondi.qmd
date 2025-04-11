@@ -8,3 +8,6 @@ categories:
 
 ---
 
+George is a Senior Research Fellow at the Centre for Epidemiological Modelling and Analysis (CEMA) at the University of Nairobi. He holds a PhD in Epidemiology from the University of Minnesota, and a Bachelor of Veterinary Medicine from the University of Nairobi.
+
+He specializes in applied epidemiological modeling, and data analytics integrating field data with computational methods to develop decision support systems, and predictive tools, and generate actionable insights into human-animal health systems, disease surveillance and control, risk assessment, and public health policy. His interests span developing data intelligence systems bridging human, animal, and environmental health under a One Health lens.

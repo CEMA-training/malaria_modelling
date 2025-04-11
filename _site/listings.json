@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/participants.html",
+    "items": []
+  },
+  {
     "listing": "/faculty.html",
     "items": [
       "/faculty/alice-kamau.html",
@@ -23,9 +27,5 @@
       "/faculty/thumbi-mwangi.html",
       "/faculty/waithera-mwangi.html"
     ]
-  },
-  {
-    "listing": "/participants.html",
-    "items": []
   }
 ]

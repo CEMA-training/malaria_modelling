@@ -1,5 +1,173 @@
 [
   {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Course Schedule",
+    "section": "",
+    "text": "This intensive two-week program provides comprehensive training in mathematical modeling of infectious diseases with a focus on malaria. The curriculum covers fundamental concepts in epidemiology, advanced modelling techniques, economic evaluation, and effective communication of modelling results to stakeholders.\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 09:00\nIce-breaker Session\nPurity\n\n\n09:00 - 11:00\nLesson 1: Definitions of public health, epidemiology, & models; Fundamental principles and terminology; Methods for measuring disease frequency\nGeorge Paul\n\n\n11:00 - 11:30\nCoffee Break\n\n\n\n11:30 - 13:30\nLesson 2: Role of epidemiology in public health & disease control; Epidemiology study designs and their applications\nGeoffrey/Alice\n\n\n13:30 - 14:30\nLunch Break\n\n\n\n14:30 - 16:30\nLesson 3: R programming fundamentals and data visualization\nNjoki/Alice\n\n\n16:30 - 17:00\nTrainer Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 4: Introduction to mathematical modelling (role of modelling and types of models); Introduction to generic compartmental models\nGeoffrey/Billy\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 5: Model construction - constructing a simple malaria model (SIS diagrams)\nSTPH (Emilie, Cameline, Billy)/Njoki\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 6: Flow diagram to differential equations (simple malaria model)\nSTPH (Emilie, Cameline, Billy)/Njoki\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTutorial on generic compartmental models\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 7: Constructing and analyzing simple infectious disease models (coding, solving equations)\nSTPH (Emilie, Cameline, Billy)/John Ojal\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 8: Elementary vector-host model (malaria model)\nStephanie/John O\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 9: Adding complexity to malaria models (age, seasonality, immunity, treatment)\nStephanie/John O\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTutorial Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 10: Interventions of malaria models\nSTPH/Stephanie\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 11: Scenario analysis\nSTPH/Stephanie\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 12: Version control using Git and GitHub to manage and share R code\nAlice\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nIntroduction to Group Projects\nCameline/STPH/Mutono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 14: Sensitivity analysis\nIvy/Mutono\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 15: Reproducible analysis in R using R Markdown and interactive visualizations\nGeoffrey\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nGroup Project Work\nCameline/STPH/Mutono\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTrainer Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:30 - 09:30\nPracticals: Simulating a malaria model\nSTPH/Stephanie\n\n\n09:30 - 10:00\nCoffee Break\n\n\n\n10:00 - 13:00\nGroup Project Work\nCameline/STPH/Mutono\n\n\n\n\n\n\nFull day excursion and recreational activities\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 16: Introduction to parameterising a model\nJohn Ojal\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 17: Introduction to model fitting and Frequentists methods (LSE and MLE)\nJohn Ojal/Emilie/STPH\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 18: Interactive visualizations in R shiny/Dashboard\nGeoffrey/Emilie/STPH\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTrainer Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 19: Empirical data to fit malaria models via Bayesian methods\nEmilie/STPH\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nGroup Project Work\n\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 20: Introduction to Network Modeling in Epidemiology\nGeorge Paul/Billy\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nLesson 21: Network Models in Malaria Epidemiology\nGeorge Paul/Billy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 22: Principles of Health Economic Evaluation\nPatricia\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 23: Costing Approaches and Methods\nPatricia\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 24: Measuring Health Outcomes\nTabitha\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTutorial: Modelling for economic evaluation\nTabitha/John Ojal\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 25: Strategies for presenting data and model results to stakeholders\nGeoffrey/Cameline\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 26: Writing clear, concise policy briefs and reports\nThumbi\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 17:00\nGroup Project Work\nCameline/STPH/Mutono\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nGroup Project Presentations\n\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nGroup Project Presentations\n\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nGroup Project Presentations\n\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nClosing Lecture and Certificate Ceremony\n\n\n\n\n\n\n\nCheckout and departures\n\nNote: This schedule is subject to minor adjustments based on the progress and needs of participants. Coffee and lunch breaks are scheduled to provide opportunities for informal discussions and networking."
+  },
+  {
+    "objectID": "schedule.html#week-1",
+    "href": "schedule.html#week-1",
+    "title": "Course Schedule",
+    "section": "",
+    "text": "Time\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 09:00\nIce-breaker Session\nPurity\n\n\n09:00 - 11:00\nLesson 1: Definitions of public health, epidemiology, & models; Fundamental principles and terminology; Methods for measuring disease frequency\nGeorge Paul\n\n\n11:00 - 11:30\nCoffee Break\n\n\n\n11:30 - 13:30\nLesson 2: Role of epidemiology in public health & disease control; Epidemiology study designs and their applications\nGeoffrey/Alice\n\n\n13:30 - 14:30\nLunch Break\n\n\n\n14:30 - 16:30\nLesson 3: R programming fundamentals and data visualization\nNjoki/Alice\n\n\n16:30 - 17:00\nTrainer Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 4: Introduction to mathematical modelling (role of modelling and types of models); Introduction to generic compartmental models\nGeoffrey/Billy\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 5: Model construction - constructing a simple malaria model (SIS diagrams)\nSTPH (Emilie, Cameline, Billy)/Njoki\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 6: Flow diagram to differential equations (simple malaria model)\nSTPH (Emilie, Cameline, Billy)/Njoki\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTutorial on generic compartmental models\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 7: Constructing and analyzing simple infectious disease models (coding, solving equations)\nSTPH (Emilie, Cameline, Billy)/John Ojal\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 8: Elementary vector-host model (malaria model)\nStephanie/John O\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 9: Adding complexity to malaria models (age, seasonality, immunity, treatment)\nStephanie/John O\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTutorial Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 10: Interventions of malaria models\nSTPH/Stephanie\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 11: Scenario analysis\nSTPH/Stephanie\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 12: Version control using Git and GitHub to manage and share R code\nAlice\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nIntroduction to Group Projects\nCameline/STPH/Mutono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 14: Sensitivity analysis\nIvy/Mutono\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 15: Reproducible analysis in R using R Markdown and interactive visualizations\nGeoffrey\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nGroup Project Work\nCameline/STPH/Mutono\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTrainer Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:30 - 09:30\nPracticals: Simulating a malaria model\nSTPH/Stephanie\n\n\n09:30 - 10:00\nCoffee Break\n\n\n\n10:00 - 13:00\nGroup Project Work\nCameline/STPH/Mutono\n\n\n\n\n\n\nFull day excursion and recreational activities"
+  },
+  {
+    "objectID": "schedule.html#week-2",
+    "href": "schedule.html#week-2",
+    "title": "Course Schedule",
+    "section": "",
+    "text": "Time\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 16: Introduction to parameterising a model\nJohn Ojal\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 17: Introduction to model fitting and Frequentists methods (LSE and MLE)\nJohn Ojal/Emilie/STPH\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 18: Interactive visualizations in R shiny/Dashboard\nGeoffrey/Emilie/STPH\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTrainer Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 19: Empirical data to fit malaria models via Bayesian methods\nEmilie/STPH\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nGroup Project Work\n\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 20: Introduction to Network Modeling in Epidemiology\nGeorge Paul/Billy\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nLesson 21: Network Models in Malaria Epidemiology\nGeorge Paul/Billy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 22: Principles of Health Economic Evaluation\nPatricia\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 23: Costing Approaches and Methods\nPatricia\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 24: Measuring Health Outcomes\nTabitha\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTutorial: Modelling for economic evaluation\nTabitha/John Ojal\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 25: Strategies for presenting data and model results to stakeholders\nGeoffrey/Cameline\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 26: Writing clear, concise policy briefs and reports\nThumbi\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 17:00\nGroup Project Work\nCameline/STPH/Mutono\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nGroup Project Presentations\n\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nGroup Project Presentations\n\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nGroup Project Presentations\n\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nClosing Lecture and Certificate Ceremony\n\n\n\n\n\n\n\nCheckout and departures\n\nNote: This schedule is subject to minor adjustments based on the progress and needs of participants. Coffee and lunch breaks are scheduled to provide opportunities for informal discussions and networking."
+  },
+  {
+    "objectID": "participants.html",
+    "href": "participants.html",
+    "title": "Participants",
+    "section": "",
+    "text": "Participants\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/brian-njuguna.html",
+    "href": "faculty/brian-njuguna.html",
+    "title": "Brian Njuguna",
+    "section": "",
+    "text": "Brian is a data Scientist with a Bachelor of Science in Statistics from Egerton University. He has a deep fascination with machine learning and statistics modelling, constantly seeking opportunities to expand his knowledge in these fields.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/ryan-musasia.html",
+    "href": "faculty/ryan-musasia.html",
+    "title": "Ryan Musasia",
+    "section": "",
+    "text": "I’m a freshly minted Data Scientist who just escaped the clutches of academia and is ready to conquer the data-driven world with wit, charm, and a whole lot of Python magic. My expertise lies in unraveling intricate data puzzles rather than solving crimes. My core competencies revolve around employing machine learning, statistical analysis, and advanced methodologies to extract valuable insights from complex datasets. My passion lies in uncovering concealed information within data and converting it into actionable intelligence that drives informed decision-making. Rest assured, there’s no sorcery involved (well, at least not beyond the occasional code magic).\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/njoki-kimani.html",
+    "href": "faculty/njoki-kimani.html",
+    "title": "Njoki Kimani",
+    "section": "",
+    "text": "Njoki is undertaking her Ph.D. in Infectious Disease Epidemiology at CEMA, focusing on the burden and control of COVID-19 in Kenya. She holds an MSc in Epidemiology from the Imperial College London and a medical degree from the University of Nairobi. She is also a Global South Fellow in the Preparedness and Response Division at CEPI. Her fellowship project is focused on designing and establishing a virtual Emergency Collaboration Environment (vECE), that will enhance collaboration, communication and coordination of an end-to-end vaccine response. She equally works in Kiambu County as the County epidemiologist and the county public health emergency operations center (PHEOC) manager.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/john-ojal.html",
+    "href": "faculty/john-ojal.html",
+    "title": "John Ojal",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "faculty/emilie-pothin.html",
+    "href": "faculty/emilie-pothin.html",
+    "title": "Emilie Pothin",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "faculty/israel-ukawaba.html",
+    "href": "faculty/israel-ukawaba.html",
+    "title": "Israel Ukawaba",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "faculty/thumbi-mwangi.html",
+    "href": "faculty/thumbi-mwangi.html",
+    "title": "Thumbi Mwangi",
+    "section": "",
+    "text": "Thumbi Mwangi is an infectious disease epidemiologist combining classical epidemiology, applied epidemiological modelling and data science to improve the speed and quality of policy decision making in human and animal health. His research program conducts population-based studies, statistical and mathematical tools to understand the epidemiology, optimize surveillance and control of zoonotic diseases.\nHis current research includes: - implementation research for the elimination of dog-mediated human rabies - optimal use and placement of primary healthcare services - improvement of essential health services - syndromic surveillance for early detection of zoonotic spillover - transmission and control of animal and human brucellosis - livestock interventions for improvement of human nutritional status - transmission dynamics and control of SARS-CoV2 in Kenya - analytics and epidemiological modelling to support elimination of preventative chemotherapy Neglected Tropical Diseases (NTD) in Africa, working in collaboration with the NTD modelling consortium\nHe serves as the Chair of the National Technical Committee on Modelling advising the Kenya government on COVID-19 responses, member of the National Rabies Elimination Coordination Committee charged with oversight of the implementation of the rabies elimination strategy for Kenya, and member of Kenya’s Zoonotic Technical Working Group. Internationally, he is a member of the Africa CDC COVID-19 modelling group, member of the Technical Review Committee of the African Union Africa Risk Capacity - epidemics and outbreaks program. He has served as a member of the World Health Organization (WHO) rabies modelling consortium, and a member of WHO Rabies Expert Group that reviewed and updated the current WHO rabies guidelines.\nHis research has been funded by the:\n\nWellcome Trust\nBill and Melinda Gates Foundation\nWorld Health Organization\nUK Global Challenges Research Fund\nKenya National Research Fund\nPaul G Allen Family Foundation\nUK Medical Research Council\nScottish Funding Council\nUSAID\nSanofi Pasteur\nthe German Research Foundation.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/cameline-orlendo.html",
+    "href": "faculty/cameline-orlendo.html",
+    "title": "Cameline Orlendo",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "faculty/george-paul-omondi.html",
+    "href": "faculty/george-paul-omondi.html",
+    "title": "George Paul Omondi",
+    "section": "",
+    "text": "George is a Senior Research Fellow at the Centre for Epidemiological Modelling and Analysis (CEMA) at the University of Nairobi. He holds a PhD in Epidemiology from the University of Minnesota, and a Bachelor of Veterinary Medicine from the University of Nairobi.\nHe specializes in applied epidemiological modeling, and data analytics integrating field data with computational methods to develop decision support systems, and predictive tools, and generate actionable insights into human-animal health systems, disease surveillance and control, risk assessment, and public health policy. His interests span developing data intelligence systems bridging human, animal, and environmental health under a One Health lens.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/billy-bauzile.html",
+    "href": "faculty/billy-bauzile.html",
+    "title": "Billy Bauzile",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "faculty/purity-wambui.html",
+    "href": "faculty/purity-wambui.html",
+    "title": "Purity Wambui",
+    "section": "",
+    "text": "Dr Purity Wambui Nyaikamba is the Scientific Coordinator for the African Modelling Network for NTDs (AM2NTD) and Africa Modelling and Analytics for Women (AMAX) programs. A dedicated advocate for global health, she holds a bachelor’s degree in Pharmacy from Jomo Kenyatta University of Agriculture and Technology (JKUAT) and more recently, an MSc in Health Policy, Planning, and Financing from the London School of Economics and Political Science (LSE) and the London School of Hygiene and Tropical Medicine (LSHTM). Purity brings over seven years of experience in health policy and advocacy, program management and fostering strategic partnerships. Prior to joining CEMA, Purity held roles in pharmaceutical regulatory affairs and led partnerships and advocacy for the first global youth organization dedicated to ending NTDs. Passionate about the role of leadership and youth engagement in driving social change, Purity is a Mandela Washington Fellowship alumna, a member of the International Leadership Association and an Advisor and Honorary Life Member of the International Pharmaceutical Students’ Federation.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/stanley-sayianka.html",
+    "href": "faculty/stanley-sayianka.html",
+    "title": "Stanley Sayianka",
+    "section": "",
+    "text": "I am an aspiring research scientist with a strong foundation in statistical methods. I am currently specializing in epidemiology and quantitative finance. I am fascinated by how learning algorithms adapt and evolve, particularly in response to the complexities of the real world. My interests include machine learning and probabilistic (Bayesian) reasoning, and I am dedicated to integrating my studies with practical experiences to drive impactful results.\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/geoffrey-githinji.html",
+    "href": "faculty/geoffrey-githinji.html",
+    "title": "Geoffrey Githinji",
+    "section": "",
+    "text": "Geoffrey is a research fellow in Malaria Interventions Modelling. In this role, he is supporting national malaria control programs by leveraging disease modelling and data analytics to inform strategic decisions and operational plans. Dr. Githinji brings extensive experience from the National Malaria Control Program in Kenya and his recent work with Swiss TPH’s Analytics and Intervention Modelling Team. His expertise spans infectious disease modelling, data analytics, and public health surveillance. With a background that uniquely combines clinical practice, field epidemiology, and mathematical modelling, he is well-positioned to translate data analysis and modelling outputs into actionable intervention policies for malaria control in endemic countries.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/stephanie-kamunya.html",
+    "href": "faculty/stephanie-kamunya.html",
+    "title": "Stephanie Kamunya",
+    "section": "",
+    "text": "Stephanie is a postdoctoral research fellow at the Centre for Epidemiological Modelling and Analysis (CEMA). She holds a PhD from the University of Cape Town where her thesis focused on antimalarial drug discovery. She is currently focused on applying her experience in malaria research into mathematical modelling.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/waithera-mwangi.html",
+    "href": "faculty/waithera-mwangi.html",
+    "title": "Waithera Mwangi",
+    "section": "",
+    "text": "Waithera is an administrative officer at the Centre for Epidemiological Modelling and Analysis (CEMA). In her role, she supports the training component- facilitating the planning and execution. She is dedicated to fostering efficient systems and processes that enhance the center’s capacity to address public health challenges. She holds a B.A. in International Studies.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/ivy-kombe.html",
+    "href": "faculty/ivy-kombe.html",
+    "title": "Ivy Kombe",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "faculty/tabitha-okech.html",
+    "href": "faculty/tabitha-okech.html",
+    "title": "Tabitha Okech",
+    "section": "",
+    "text": "Tabitha Okech is a dedicated Public Health Practitioner and Pharmacist based in Nairobi, Kenya, with over a decade of experience in managing preventive and promotive public health programs. She is currently pursuing a Ph.D. in Health Technology Assessment from Mahidol University, Thailand, and has undergone advanced training in Field Epidemiology and Laboratory Training from Moi University leading to a MSc in Field Epidemiology. She joins CEMA to advance the use of HTA in collaboration with researchers, health professionals, and policymakers in various areas to help communicate the value of health initiatives using economic evidence in Kenya and across Africa. She intends to contribute to the training of HTA to support universal health coverage (UHC) and health systems in Kenya. Her focus will be on how to apply health economics and health technology assessment (HTA) in the real-world setting as well as how to advance methods in economic evaluation. She hopes to focus on conducting economic evaluations using various methods and using person-level data from sources such as administrative databases, registries, and clinical trials in health economics and HTA to support evidence generation and policy-making process. Dr. Okech has extensive experience in infectious disease surveillance, response, and management. She has played critical roles in various national public health initiatives, including supplemental immunization activities across multiple counties in Kenya, investigation of disease outbreaks and risk assessment for Yellow Fever outbreaks at the National Public Health Emergency Operation Centers. Additionally, she has played critical roles during the national roll-out of multiple COVID-19 vaccines, including planning and training of sub-national teams. She led targeted spontaneous reporting for adverse events following COVID-19 vaccination. Her professional journey includes significant leadership roles such as the Sub-County Medical Officer of Health in both Kuria West and Awendo Sub-Counties, where she supervised hundreds of healthcare workers and community health volunteers. She has been instrumental in steering epidemiological investigations, managing infectious disease outbreaks, and enhancing health service delivery at the county level. Her expertise spans across pharmacy, public health, epidemiology, health economics, and health policy formulation through health technology assessment (HTA). She is a proficient communicator, fluent in English and Kiswahili, and skilled in data analytics and economic modelling for health. Her contributions to public health have been recognized through various presentations and abstracts at international conferences, and she actively engages in community and professional organizations, including the Pharmaceutical Society of Kenya and the Field Epidemiologists Society of Kenya. In her career, she has demonstrated a commitment to improving public health outcomes through evidence-based decision-making, capacity building, and effective stakeholder management.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/mutono-nyamai.html",
+    "href": "faculty/mutono-nyamai.html",
+    "title": "Mutono Nyamai",
+    "section": "",
+    "text": "Mutono is a Senior Research Fellow at the Centre for Epidemiological Modelling and Analysis (CEMA) at the University of Nairobi, and an Assistant Professor at the Paul G Allen School for Global Health, Washington State University. She specializes in applied epidemiological modeling to generate evidence to guide and support the control and elimination of neglected tropical diseases (NTDs). Her current research focuses on estimating the burden of visceral leishmaniasis in East Africa and identifying suitable habitat areas for its transmission, modeling to develop tailored treatment strategies for schistosomiasis and soil-transmitted helminths, and works in close collaboration with the Ministry of Health in Kenya. Additionally, she is an active member of the NTD Modelling Consortium and the African Modelling Network for NTDs, contributing to collaborative efforts that accelerate progress toward NTD elimination goals in Africa.\nShe holds a PhD from the University of Nairobi, an MSc in Data Analytics from the University of Glasgow and an MSc in Environment Governance from the University of Nairobi.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/patricia-nyokabi.html",
+    "href": "faculty/patricia-nyokabi.html",
+    "title": "Patricia Nyokabi",
+    "section": "",
+    "text": "Patricia has extensive experience in Health Economics and Financing projects within the Eastern and Southern Africa region. She has served diligently in Public Service with an exceedingly fruitful career as a Pharmacist. She has also worked in the Health Financing Directorate at the Ministry of Health, where she participated in the Development of the UHC Health Financing approach and the Benefits Package Design. Her current/past research areas include: · Systematic Review of Kidney Replacement Therapies · Cost-utility analysis of Kidney Replacement Therapies in Kenya: Evidence for Universal Health Coverage · Determining Costs and Utilities for End-Stage Kidney Disease Patients in Kenya · Economic Evaluation of Post-kidney transplant treatment · Costing for a Cancer treatment program at a tertiary level hospital in Kenya. · Feeding patterns and the corresponding nutritional status of children in Kenya Patricia has an MSc in Health Economics and Policy from the University of Nairobi, a Bachelor of Pharmacy from JKUAT and is in the final stage of a postgraduate program in HTA at Mahidol University in Thailand. She serves actively in the Health Economics Association of Kenya and has contributed immensely to the success of the Annual Scientific Symposium of the Pharmaceutical Society of Kenya over the last 6 years. She has presented abstracts in local & international conferences in Malaysia and Thailand. She is an ardent trainer of Health Economics and HTA concepts.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/alice-kamau.html",
+    "href": "faculty/alice-kamau.html",
+    "title": "Alice Kamau",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mathematical Modelling of Infectious Diseases (Malaria)",
@@ -33,803 +201,5 @@
     "title": "Faculty",
     "section": "",
     "text": "Faculty\n\n\n\n\n\n\n\n\n\n\n\nAlice Kamau\n\n\nLiverpool School of Tropical Medicine\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBilly Bauzile\n\n\nSwiss Tropical and Public Health Institute\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrian Njuguna\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCameline Orlendo\n\n\nSwiss Tropical and Public Health Institute\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmilie Pothin\n\n\nSwiss Tropical and Public Health Institute\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeoffrey Githinji\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeorge Paul Omondi\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIsrael Ukawaba\n\n\nSwiss Tropical and Public Health Institute\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIvy Kombe\n\n\nKenya Medical Research Institute - Wellcome Trust\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJohn Ojal\n\n\nKenya Medical Research Institute - Wellcome Trust\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMutono Nyamai\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNjoki Kimani\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPatricia Nyokabi\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPurity Wambui\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nOperations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRyan Musasia\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStanley Sayianka\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStephanie Kamunya\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTabitha Okech\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThumbi Mwangi\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWaithera Mwangi\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nOperations\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "faculty/john-ojal.html",
-    "href": "faculty/john-ojal.html",
-    "title": "John Ojal",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Course Schedule",
-    "section": "",
-    "text": "This intensive two-week program provides comprehensive training in mathematical modeling of infectious diseases with a focus on malaria. The curriculum covers fundamental concepts in epidemiology, advanced modelling techniques, economic evaluation, and effective communication of modelling results to stakeholders.\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 09:00\nIce-breaker Session\nPurity\n\n\n09:00 - 11:00\nLesson 1: Definitions of public health, epidemiology, & models; Fundamental principles and terminology; Methods for measuring disease frequency\nGeorge Paul\n\n\n11:00 - 11:30\nCoffee Break\n\n\n\n11:30 - 13:30\nLesson 2: Role of epidemiology in public health & disease control; Epidemiology study designs and their applications\nGeoffrey/Alice\n\n\n13:30 - 14:30\nLunch Break\n\n\n\n14:30 - 16:30\nLesson 3: R programming fundamentals and data visualization\nNjoki/Alice\n\n\n16:30 - 17:00\nTrainer Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 4: Introduction to mathematical modelling (role of modelling and types of models); Introduction to generic compartmental models\nGeoffrey/Billy\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 5: Model construction - constructing a simple malaria model (SIS diagrams)\nSTPH (Emilie, Cameline, Billy)/Njoki\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 6: Flow diagram to differential equations (simple malaria model)\nSTPH (Emilie, Cameline, Billy)/Njoki\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTutorial on generic compartmental models\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 7: Constructing and analyzing simple infectious disease models (coding, solving equations)\nSTPH (Emilie, Cameline, Billy)/John Ojal\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 8: Elementary vector-host model (malaria model)\nStephanie/John O\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 9: Adding complexity to malaria models (age, seasonality, immunity, treatment)\nStephanie/John O\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTutorial Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 10: Interventions of malaria models\nSTPH/Stephanie\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 11: Scenario analysis\nSTPH/Stephanie\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 12: Version control using Git and GitHub to manage and share R code\nAlice\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nIntroduction to Group Projects\nCameline/STPH/Mutono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 14: Sensitivity analysis\nIvy/Mutono\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 15: Reproducible analysis in R using R Markdown and interactive visualizations\nGeoffrey\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nGroup Project Work\nCameline/STPH/Mutono\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTrainer Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:30 - 09:30\nPracticals: Simulating a malaria model\nSTPH/Stephanie\n\n\n09:30 - 10:00\nCoffee Break\n\n\n\n10:00 - 13:00\nGroup Project Work\nCameline/STPH/Mutono\n\n\n\n\n\n\nFull day excursion and recreational activities\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 16: Introduction to parameterising a model\nJohn Ojal\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 17: Introduction to model fitting and Frequentists methods (LSE and MLE)\nJohn Ojal/Emilie/STPH\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 18: Interactive visualizations in R shiny/Dashboard\nGeoffrey/Emilie/STPH\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTrainer Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 19: Empirical data to fit malaria models via Bayesian methods\nEmilie/STPH\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nGroup Project Work\n\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 20: Introduction to Network Modeling in Epidemiology\nGeorge Paul/Billy\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nLesson 21: Network Models in Malaria Epidemiology\nGeorge Paul/Billy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 22: Principles of Health Economic Evaluation\nPatricia\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 23: Costing Approaches and Methods\nPatricia\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 24: Measuring Health Outcomes\nTabitha\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTutorial: Modelling for economic evaluation\nTabitha/John Ojal\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 25: Strategies for presenting data and model results to stakeholders\nGeoffrey/Cameline\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 26: Writing clear, concise policy briefs and reports\nThumbi\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 17:00\nGroup Project Work\nCameline/STPH/Mutono\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nGroup Project Presentations\n\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nGroup Project Presentations\n\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nGroup Project Presentations\n\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nClosing Lecture and Certificate Ceremony\n\n\n\n\n\n\n\nCheckout and departures\n\nNote: This schedule is subject to minor adjustments based on the progress and needs of participants. Coffee and lunch breaks are scheduled to provide opportunities for informal discussions and networking."
-  },
-  {
-    "objectID": "participants.html",
-    "href": "participants.html",
-    "title": "Participants",
-    "section": "",
-    "text": "Participants\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "faculty/ivy-kombe.html",
-    "href": "faculty/ivy-kombe.html",
-    "title": "Ivy Kombe",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "faculty/mutono-nyamai.html",
-    "href": "faculty/mutono-nyamai.html",
-    "title": "Mutono Nyamai",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "faculty/brian-njuguna.html",
-    "href": "faculty/brian-njuguna.html",
-    "title": "Brian Njuguna",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "feedback.html",
-    "href": "feedback.html",
-    "title": "Feedback",
-    "section": "",
-    "text": "We hope you’re enjoying the hackathon and having a great time collaborating, learning, and innovating. Your feedback is crucial in helping us improve and make this event even better for everyone. Thank you for helping us make this event the best it can be!\n\n\nWe’d love to hear your thoughts—whether it’s about the logistics, content, or anything else. Please take a moment to share your feedback through the link below. Your responses are completely anonymous, and we’ll aim to address your suggestions daily throughout the week.\nProvide Your Daily Feedback Here\n\n\n\nWe are are keen to understand how we could have improved this hackathon, what worked well and what did not. Please take a moment at the end of Day 5 to share your feedback through the link below.\nProvide Your End of Hackathon Feedback Here"
-  },
-  {
-    "objectID": "feedback.html#how-can-we-enhance-your-hackathon-experience",
-    "href": "feedback.html#how-can-we-enhance-your-hackathon-experience",
-    "title": "Feedback",
-    "section": "",
-    "text": "We’d love to hear your thoughts—whether it’s about the logistics, content, or anything else. Please take a moment to share your feedback through the link below. Your responses are completely anonymous, and we’ll aim to address your suggestions daily throughout the week.\nProvide Your Daily Feedback Here"
-  },
-  {
-    "objectID": "feedback.html#how-can-we-improve-the-next-hackathon",
-    "href": "feedback.html#how-can-we-improve-the-next-hackathon",
-    "title": "Feedback",
-    "section": "",
-    "text": "We are are keen to understand how we could have improved this hackathon, what worked well and what did not. Please take a moment at the end of Day 5 to share your feedback through the link below.\nProvide Your End of Hackathon Feedback Here"
-  },
-  {
-    "objectID": "slides/day2_slides.html#welcome-to-day-2",
-    "href": "slides/day2_slides.html#welcome-to-day-2",
-    "title": "Day 2",
-    "section": "Welcome to Day 2",
-    "text": "Welcome to Day 2\n\n\n\nGood Morning!\nHands up if you know everyone in your family’s name?\nKeep your hands up if you know if they prefer coffee or tea?\n\n\n\nWhat is the solution?"
-  },
-  {
-    "objectID": "slides/day2_slides.html#days-2-schedule",
-    "href": "slides/day2_slides.html#days-2-schedule",
-    "title": "Day 2",
-    "section": "Days 2 Schedule",
-    "text": "Days 2 Schedule\n\nCoding and Collaboration\n\n8.30 – 9.00: Grounding and plan for the day\n9.30 – 10.00: Git and GitHub refresher\n9.00 – 17.00: Dedicated time for project work in each working group, with guidance from facilitators.\n16.00 – 17.00: “Debrief the Day”. Group updates and plans for tomorrow."
-  },
-  {
-    "objectID": "slides/day2_slides.html#post-morning-tea-update",
-    "href": "slides/day2_slides.html#post-morning-tea-update",
-    "title": "Day 2",
-    "section": "Post-Morning Tea Update",
-    "text": "Post-Morning Tea Update\n\nObjective for Thursday that they are aiming towards\nAnalytical pla - andicipaton of what you want to present o n THirsdat\nWhat do you want to have done by the end of the day"
-  },
-  {
-    "objectID": "slides/git_intro_slides.html#introduction-to-git",
-    "href": "slides/git_intro_slides.html#introduction-to-git",
-    "title": "Introduction to Git",
-    "section": "Introduction to Git",
-    "text": "Introduction to Git\n\nGit is a version control software (VCS).\nVCS: Takes a picture of what your files look like and stores that in memory.\nThis allows us to look back and see how our files have changed over time."
-  },
-  {
-    "objectID": "slides/git_intro_slides.html#why-do-we-need-version-control",
-    "href": "slides/git_intro_slides.html#why-do-we-need-version-control",
-    "title": "Introduction to Git",
-    "section": "Why do we need version control?",
-    "text": "Why do we need version control?"
-  },
-  {
-    "objectID": "slides/git_intro_slides.html#version-control-metadata-history",
-    "href": "slides/git_intro_slides.html#version-control-metadata-history",
-    "title": "Introduction to Git",
-    "section": "Version control: metadata + history",
-    "text": "Version control: metadata + history\n\nwho: name of person making changes\nwhen: date and time change\nwhat: contents of files changed\nwhy: motivation for the change"
-  },
-  {
-    "objectID": "slides/git_intro_slides.html#is-it-just-like-a-backup",
-    "href": "slides/git_intro_slides.html#is-it-just-like-a-backup",
-    "title": "Introduction to Git",
-    "section": "Is it just like a backup?",
-    "text": "Is it just like a backup?\n\nWhy not just use Dropbox?\nOr Google Drive?\nThese are also great to use, and Google docs for example has version control where changes are tracked.\nHowever, Git and Github are made specifically for tracking how codebases have changed."
-  },
-  {
-    "objectID": "slides/git_intro_slides.html#installing-git",
-    "href": "slides/git_intro_slides.html#installing-git",
-    "title": "Introduction to Git",
-    "section": "Installing Git",
-    "text": "Installing Git\nGit supports all operating systems. You can install it using command-line tools or directly download and install the setup.\nhttps://git-scm.com/book/en/v2/Getting-Started-Installing-Git\n\nLinux\n\nFor Debian/Ubuntu-based operating systems use apt-get install git or similar.\n\nmacOS\n\nIf you have homebrew installed, use this command to download and install Git: brew install git.\n\nWindows\n\nInstalling Git on Windows is hassle-free. Just go to the download page"
-  },
-  {
-    "objectID": "slides/git_intro_slides.html#how-to-check-if-you-have-installed-git",
-    "href": "slides/git_intro_slides.html#how-to-check-if-you-have-installed-git",
-    "title": "Introduction to Git",
-    "section": "How to check if you have installed Git?",
-    "text": "How to check if you have installed Git?\nOpen a terminal, type git --version and press enter"
-  },
-  {
-    "objectID": "slides/git_intro_slides.html#link-git-to-your-github",
-    "href": "slides/git_intro_slides.html#link-git-to-your-github",
-    "title": "Introduction to Git",
-    "section": "Link Git to your Github",
-    "text": "Link Git to your Github\ngit config --global user.name \"your-user-name\"\ngit config --global user.email \"your@email.com\""
-  },
-  {
-    "objectID": "slides/git_intro_slides.html#basic-git-terms",
-    "href": "slides/git_intro_slides.html#basic-git-terms",
-    "title": "Introduction to Git",
-    "section": "Basic git terms",
-    "text": "Basic git terms\n\nrepository: (or “repo”) git’s database. Might be local or on GitHub\nworking copy: all the files you actually work with\ncommit:\n\nas a noun: a snapshot of all the files in the repository\nas a verb: create a snapshot\n\nhash: fingerprint of a file/repository"
-  },
-  {
-    "objectID": "slides/git_intro_slides.html#git-history",
-    "href": "slides/git_intro_slides.html#git-history",
-    "title": "Introduction to Git",
-    "section": "Git history",
-    "text": "Git history"
-  },
-  {
-    "objectID": "slides/git_intro_slides.html#interacting-with-git",
-    "href": "slides/git_intro_slides.html#interacting-with-git",
-    "title": "Introduction to Git",
-    "section": "Interacting with Git",
-    "text": "Interacting with Git\n\nFrom the command line - always good to be comfortable with this\nFrom a GUI\n\nRStudio has one built-in\nMost IDEs do now (e.g. VSCode or Positron)\n\nVia GitHub"
-  },
-  {
-    "objectID": "slides/git_intro_slides.html#basic-git-commands",
-    "href": "slides/git_intro_slides.html#basic-git-commands",
-    "title": "Introduction to Git",
-    "section": "Basic git commands",
-    "text": "Basic git commands\n\ngit init: initialise a repository\ngit add: stage files\ngit commit: add staged files to the repository by making a commit\ngit log: see an overview of what changed\ngit diff: see details of what changed"
-  },
-  {
-    "objectID": "slides/git_intro_slides.html#end-of-part-1",
-    "href": "slides/git_intro_slides.html#end-of-part-1",
-    "title": "Introduction to Git",
-    "section": "End of part 1",
-    "text": "End of part 1"
-  },
-  {
-    "objectID": "slides/git_intro_slides.html#what-makes-a-commit",
-    "href": "slides/git_intro_slides.html#what-makes-a-commit",
-    "title": "Introduction to Git",
-    "section": "What makes a commit?",
-    "text": "What makes a commit?"
-  },
-  {
-    "objectID": "slides/git_intro_slides.html#ideally",
-    "href": "slides/git_intro_slides.html#ideally",
-    "title": "Introduction to Git",
-    "section": "Ideally",
-    "text": "Ideally\n\nOne set of related changes\nCommit message explains why they were needed\nShort title (&lt;60 characters)\nBlank line, then any further discussion"
-  },
-  {
-    "objectID": "slides/git_intro_slides.html#not-everything-goes-in-git",
-    "href": "slides/git_intro_slides.html#not-everything-goes-in-git",
-    "title": "Introduction to Git",
-    "section": "Not everything goes in git",
-    "text": "Not everything goes in git\n\nLarge files\nPasswords\nOutputs (sometimes)\nUse .gitignore"
-  },
-  {
-    "objectID": "slides/git_intro_slides.html#remote-git-commands",
-    "href": "slides/git_intro_slides.html#remote-git-commands",
-    "title": "Introduction to Git",
-    "section": "Remote git commands",
-    "text": "Remote git commands\n\ngit clone: download a repository\ngit fetch: update remote changes but don’t apply them\ngit pull: update remote changes and do apply them\ngit push: send your changes upstream\ngit remote: inspect / change details of upstream repositories\ngit branch: inspect / create a branch\ngit checkout -b: create a branch and change to it (yes this is stupid)\ngit merge: merge branches"
-  },
-  {
-    "objectID": "slides/git_intro_slides.html#rstudio-and-github",
-    "href": "slides/git_intro_slides.html#rstudio-and-github",
-    "title": "Introduction to Git",
-    "section": "Rstudio and GitHub",
-    "text": "Rstudio and GitHub\n\nNot all commands are supported but all you will likely need\nUse the shell for the rest"
-  },
-  {
-    "objectID": "slides/git_install_mac.html",
-    "href": "slides/git_install_mac.html",
-    "title": "Setting Up Git and GitHub on Mac",
-    "section": "",
-    "text": "Welcome to the guide for setting up Git and GitHub on Mac. This guide assumes no prior coding or Git experience.\nWe will cover:\n\nDownloading and installing Git.\nVerifying the installation.\nGenerating an SSH key.\nAdding the SSH key to GitHub.\nLinking the SSH key with RStudio."
-  },
-  {
-    "objectID": "slides/git_install_mac.html#introduction",
-    "href": "slides/git_install_mac.html#introduction",
-    "title": "Setting Up Git and GitHub on Mac",
-    "section": "",
-    "text": "Welcome to the guide for setting up Git and GitHub on Mac. This guide assumes no prior coding or Git experience.\nWe will cover:\n\nDownloading and installing Git.\nVerifying the installation.\nGenerating an SSH key.\nAdding the SSH key to GitHub.\nLinking the SSH key with RStudio."
-  },
-  {
-    "objectID": "slides/git_install_mac.html#step-1-install-git",
-    "href": "slides/git_install_mac.html#step-1-install-git",
-    "title": "Setting Up Git and GitHub on Mac",
-    "section": "Step 1: Install Git",
-    "text": "Step 1: Install Git\n\nOpen the Terminal application on your Mac.\nCheck if Git is already installed by running:\ngit --version\nIf Git is not installed, you will see a prompt to install the Xcode Command Line Tools:\n\nClick Install and follow the on-screen instructions.\n\nOnce installed, verify Git by running:\ngit --version\n\nYou should see a version number, e.g., git version 2.x.x."
-  },
-  {
-    "objectID": "slides/git_install_mac.html#step-2-generate-an-ssh-key",
-    "href": "slides/git_install_mac.html#step-2-generate-an-ssh-key",
-    "title": "Setting Up Git and GitHub on Mac",
-    "section": "Step 2: Generate an SSH Key",
-    "text": "Step 2: Generate an SSH Key\n\nOpen the Terminal application.\nRun the following command:\nssh-keygen -t ed25519 -C \"your_email@example.com\"\n\nReplace your_email@example.com with your GitHub email address.\n\nWhen prompted:\n\nPress Enter to save the key to the default location.\n(Optional) Enter a passphrase for added security.\n\nYour SSH key will be saved to a default location, e.g., /Users/YourName/.ssh/id_ed25519."
-  },
-  {
-    "objectID": "slides/git_install_mac.html#step-3-add-the-ssh-key-to-github",
-    "href": "slides/git_install_mac.html#step-3-add-the-ssh-key-to-github",
-    "title": "Setting Up Git and GitHub on Mac",
-    "section": "Step 3: Add the SSH Key to GitHub",
-    "text": "Step 3: Add the SSH Key to GitHub\n\nDisplay your public SSH key:\n\nRun the following command in Terminal:\ncat ~/.ssh/id_ed25519.pub\nCopy the output (Cmd + C).\n\nLog in to your GitHub account.\nGo to Settings &gt; SSH and GPG keys.\nClick New SSH key:\n\nTitle: Give your key a name (e.g., “My Mac”).\nKey: Paste the copied key into the text box.\n\nClick Add SSH key.\nConfirm your password if prompted."
-  },
-  {
-    "objectID": "slides/git_install_mac.html#step-4-test-the-ssh-connection",
-    "href": "slides/git_install_mac.html#step-4-test-the-ssh-connection",
-    "title": "Setting Up Git and GitHub on Mac",
-    "section": "Step 4: Test the SSH Connection",
-    "text": "Step 4: Test the SSH Connection\n\nOpen the Terminal application.\nRun the following command:\nssh -T git@github.com\nIf successful, you will see a message like:\nHi username! You've successfully authenticated, but GitHub does not provide shell access.\n\nIf there’s an error, check that the SSH key was added correctly."
-  },
-  {
-    "objectID": "slides/git_install_mac.html#step-5-link-ssh-key-with-rstudio",
-    "href": "slides/git_install_mac.html#step-5-link-ssh-key-with-rstudio",
-    "title": "Setting Up Git and GitHub on Mac",
-    "section": "Step 5: Link SSH Key with RStudio",
-    "text": "Step 5: Link SSH Key with RStudio\n\nOpen RStudio.\nGo to Tools &gt; Global Options.\nIn the left-hand menu, click on Git/SVN.\nCheck the box labeled Enable version control interface for RStudio.\nUnder the Git executable field, ensure the path points to the Git installation, e.g., /usr/bin/git.\nClick Apply and then OK."
-  },
-  {
-    "objectID": "slides/git_install_mac.html#step-6-configure-ssh-key-in-rstudio",
-    "href": "slides/git_install_mac.html#step-6-configure-ssh-key-in-rstudio",
-    "title": "Setting Up Git and GitHub on Mac",
-    "section": "Step 6: Configure SSH Key in RStudio",
-    "text": "Step 6: Configure SSH Key in RStudio\n\nOpen the Terminal tab in RStudio (found at the bottom-right of the screen).\nVerify the SSH key is correctly set up by running:\nssh -T git@github.com\nIf successful, proceed to the next step."
-  },
-  {
-    "objectID": "slides/git_install_mac.html#step-7-clone-a-repository-in-rstudio",
-    "href": "slides/git_install_mac.html#step-7-clone-a-repository-in-rstudio",
-    "title": "Setting Up Git and GitHub on Mac",
-    "section": "Step 7: Clone a Repository in RStudio",
-    "text": "Step 7: Clone a Repository in RStudio\n\nGo to your GitHub repository.\nClick the green Code button and select SSH.\nCopy the SSH link (e.g., git@github.com:username/repo.git).\nIn RStudio, go to File &gt; New Project &gt; Version Control &gt; Git.\nPaste the SSH link into the Repository URL field.\nChoose a directory to save the project and click Create Project."
-  },
-  {
-    "objectID": "slides/git_install_mac.html#congratulations",
-    "href": "slides/git_install_mac.html#congratulations",
-    "title": "Setting Up Git and GitHub on Mac",
-    "section": "Congratulations!",
-    "text": "Congratulations!\nYou have successfully:\n\nInstalled Git.\nVerified the installation.\nCreated and added an SSH key to GitHub.\nLinked the SSH key with RStudio.\n\nYou are now ready to use the Git GUI in RStudio to manage your projects and collaborate effectively!"
-  },
-  {
-    "objectID": "slides/git_install_windows.html",
-    "href": "slides/git_install_windows.html",
-    "title": "Setting Up Git and GitHub on Windows",
-    "section": "",
-    "text": "Welcome to the guide for setting up Git and GitHub on Windows. This guide assumes no prior coding or Git experience.\nWe will cover:\n\nDownloading and installing Git.\nVerifying the installation.\nGenerating an SSH key.\nAdding the SSH key to GitHub.\nLinking the SSH key with RStudio.\n\n\n\n\n\nGo to the Git website: https://git-scm.com.\nClick on Download for Windows.\nRun the downloaded .exe file.\nFollow the installation steps:\n\nUse the default settings.\nClick “Next” for all options unless you have specific requirements.\n\nClick Finish when done.\n\n\n\n\n\n\nOpen the Command Prompt:\n\nPress Win + R, type cmd, and press Enter.\n\nType the following command and press Enter:\ngit --version\nYou should see a version number, e.g., git version 2.x.x.\n\nIf you see an error, repeat the installation steps.\n\n\n\n\n\n\n\nOpen the Git Bash application (installed with Git).\nRun the following command:\nssh-keygen -t ed25519 -C \"your_email@example.com\"\n\nReplace your_email@example.com with your GitHub email address.\n\nWhen prompted:\n\nPress Enter to save the key to the default location.\n(Optional) Enter a passphrase for added security.\n\nYour SSH key will be saved to a default location, e.g., C:\\Users\\YourName\\.ssh\\id_ed25519.\n\n\n\n\n\n\nDisplay your public SSH key:\n\nRun the following command in Git Bash:\ncat ~/.ssh/id_ed25519.pub\nCopy the output (Ctrl + C).\n\nLog in to your GitHub account.\nGo to Settings &gt; SSH and GPG keys.\nClick New SSH key:\n\nTitle: Give your key a name (e.g., “My Laptop”).\nKey: Paste the copied key into the text box.\n\nClick Add SSH key.\nConfirm your password if prompted.\n\n\n\n\n\n\nOpen Git Bash.\nRun the following command:\nssh -T git@github.com\nIf successful, you will see a message like:\nHi username! You've successfully authenticated, but GitHub does not provide shell access.\n\nIf there’s an error, check that the SSH key was added correctly.\n\n\n\n\n\n\n\nOpen RStudio.\nGo to Tools &gt; Global Options.\nIn the left-hand menu, click on Git/SVN.\nCheck the box labeled Enable version control interface for RStudio.\nUnder the Git executable field, ensure the path points to the Git installation, e.g., C:\\Program Files\\Git\\bin\\git.exe.\nClick Apply and then OK.\n\n\n\n\n\n\nOpen the Terminal tab in RStudio (found at the bottom-right of the screen).\nVerify the SSH key is correctly set up by running:\nssh -T git@github.com\nIf successful, proceed to the next step.\n\n\n\n\n\n\nGo to your GitHub repository.\nClick the green Code button and select SSH.\nCopy the SSH link (e.g., git@github.com:username/repo.git).\nIn RStudio, go to File &gt; New Project &gt; Version Control &gt; Git.\nPaste the SSH link into the Repository URL field.\nChoose a directory to save the project and click Create Project.\n\n\n\n\n\nYou have successfully:\n\nInstalled Git.\nVerified the installation.\nCreated and added an SSH key to GitHub.\nLinked the SSH key with RStudio.\n\nYou are now ready to use the Git GUI in RStudio to manage your projects and collaborate effectively!"
-  },
-  {
-    "objectID": "slides/git_install_windows.html#step-1-download-and-install-git",
-    "href": "slides/git_install_windows.html#step-1-download-and-install-git",
-    "title": "Setting Up Git and GitHub on Windows",
-    "section": "",
-    "text": "Go to the Git website: https://git-scm.com.\nClick on Download for Windows.\nRun the downloaded .exe file.\nFollow the installation steps:\n\nUse the default settings.\nClick “Next” for all options unless you have specific requirements.\n\nClick Finish when done."
-  },
-  {
-    "objectID": "slides/git_install_windows.html#step-2-check-git-is-installed",
-    "href": "slides/git_install_windows.html#step-2-check-git-is-installed",
-    "title": "Setting Up Git and GitHub on Windows",
-    "section": "",
-    "text": "Open the Command Prompt:\n\nPress Win + R, type cmd, and press Enter.\n\nType the following command and press Enter:\ngit --version\nYou should see a version number, e.g., git version 2.x.x.\n\nIf you see an error, repeat the installation steps."
-  },
-  {
-    "objectID": "slides/git_install_windows.html#step-3-generate-an-ssh-key",
-    "href": "slides/git_install_windows.html#step-3-generate-an-ssh-key",
-    "title": "Setting Up Git and GitHub on Windows",
-    "section": "",
-    "text": "Open the Git Bash application (installed with Git).\nRun the following command:\nssh-keygen -t ed25519 -C \"your_email@example.com\"\n\nReplace your_email@example.com with your GitHub email address.\n\nWhen prompted:\n\nPress Enter to save the key to the default location.\n(Optional) Enter a passphrase for added security.\n\nYour SSH key will be saved to a default location, e.g., C:\\Users\\YourName\\.ssh\\id_ed25519."
-  },
-  {
-    "objectID": "slides/git_install_windows.html#step-4-add-the-ssh-key-to-github",
-    "href": "slides/git_install_windows.html#step-4-add-the-ssh-key-to-github",
-    "title": "Setting Up Git and GitHub on Windows",
-    "section": "",
-    "text": "Display your public SSH key:\n\nRun the following command in Git Bash:\ncat ~/.ssh/id_ed25519.pub\nCopy the output (Ctrl + C).\n\nLog in to your GitHub account.\nGo to Settings &gt; SSH and GPG keys.\nClick New SSH key:\n\nTitle: Give your key a name (e.g., “My Laptop”).\nKey: Paste the copied key into the text box.\n\nClick Add SSH key.\nConfirm your password if prompted."
-  },
-  {
-    "objectID": "slides/git_install_windows.html#step-5-test-the-ssh-connection",
-    "href": "slides/git_install_windows.html#step-5-test-the-ssh-connection",
-    "title": "Setting Up Git and GitHub on Windows",
-    "section": "",
-    "text": "Open Git Bash.\nRun the following command:\nssh -T git@github.com\nIf successful, you will see a message like:\nHi username! You've successfully authenticated, but GitHub does not provide shell access.\n\nIf there’s an error, check that the SSH key was added correctly."
-  },
-  {
-    "objectID": "slides/git_install_windows.html#step-6-link-ssh-key-with-rstudio",
-    "href": "slides/git_install_windows.html#step-6-link-ssh-key-with-rstudio",
-    "title": "Setting Up Git and GitHub on Windows",
-    "section": "",
-    "text": "Open RStudio.\nGo to Tools &gt; Global Options.\nIn the left-hand menu, click on Git/SVN.\nCheck the box labeled Enable version control interface for RStudio.\nUnder the Git executable field, ensure the path points to the Git installation, e.g., C:\\Program Files\\Git\\bin\\git.exe.\nClick Apply and then OK."
-  },
-  {
-    "objectID": "slides/git_install_windows.html#step-7-configure-ssh-key-in-rstudio",
-    "href": "slides/git_install_windows.html#step-7-configure-ssh-key-in-rstudio",
-    "title": "Setting Up Git and GitHub on Windows",
-    "section": "",
-    "text": "Open the Terminal tab in RStudio (found at the bottom-right of the screen).\nVerify the SSH key is correctly set up by running:\nssh -T git@github.com\nIf successful, proceed to the next step."
-  },
-  {
-    "objectID": "slides/git_install_windows.html#step-8-clone-a-repository-in-rstudio",
-    "href": "slides/git_install_windows.html#step-8-clone-a-repository-in-rstudio",
-    "title": "Setting Up Git and GitHub on Windows",
-    "section": "",
-    "text": "Go to your GitHub repository.\nClick the green Code button and select SSH.\nCopy the SSH link (e.g., git@github.com:username/repo.git).\nIn RStudio, go to File &gt; New Project &gt; Version Control &gt; Git.\nPaste the SSH link into the Repository URL field.\nChoose a directory to save the project and click Create Project."
-  },
-  {
-    "objectID": "slides/git_install_windows.html#congratulations",
-    "href": "slides/git_install_windows.html#congratulations",
-    "title": "Setting Up Git and GitHub on Windows",
-    "section": "",
-    "text": "You have successfully:\n\nInstalled Git.\nVerified the installation.\nCreated and added an SSH key to GitHub.\nLinked the SSH key with RStudio.\n\nYou are now ready to use the Git GUI in RStudio to manage your projects and collaborate effectively!"
-  },
-  {
-    "objectID": "slides/day3_slides.html#welcome-to-day-3",
-    "href": "slides/day3_slides.html#welcome-to-day-3",
-    "title": "Day 3",
-    "section": "Welcome to Day 3",
-    "text": "Welcome to Day 3\n\n\n\nGood Morning!\nHands up if you are happy to share 3 things you have learnt about your team from Jenga?\n\n\n\nWhat is the solution?"
-  },
-  {
-    "objectID": "slides/day3_slides.html#day-3-schedule",
-    "href": "slides/day3_slides.html#day-3-schedule",
-    "title": "Day 3",
-    "section": "Day 3 Schedule",
-    "text": "Day 3 Schedule\n\nCoding and Collaboration\n\n8.30 – 9.00: Grounding and plan for the day\n9.00 – 17.00: Dedicated time for project work in each working group, with guidance from facilitators.\n16.00 – 17.00: “Debrief the Day”. Group updates and plans for tomorrow."
-  },
-  {
-    "objectID": "slides/day3_slides.html#presentation-format",
-    "href": "slides/day3_slides.html#presentation-format",
-    "title": "Day 3",
-    "section": "Presentation Format",
-    "text": "Presentation Format\n\nBackground: Context, rationale and objective of your project\nDemonstration: Live (or semi-live/screenshots) demonstration of your tool\nTechnical Overview: Description of the methods, technical workings of your tool\nPolicy Value: How do you anticipate this tool to meet a policy need? Are there any other audiences or stakeholders who may want to see this tool?\nNext Steps: What did you not manage to cover this week? What features would you want to still add?\nMaintenance Plan: Who from CEMA will be taking this project forward?"
-  },
-  {
-    "objectID": "slides/day3_slides.html#further-updates",
-    "href": "slides/day3_slides.html#further-updates",
-    "title": "Day 3",
-    "section": "Further Updates",
-    "text": "Further Updates\n\nPlease, please, please all respond to Waithera’s email for dinner updates\nThink Big.\n\nOn Friday, we will have time for groups to plan how to take this work forward:\n\nConference Abstracts?\nJournal Submission?\nGrant Applications?\n\nHowever, there is no reason to not also think about the above now:\n\nCould someone in your group be spending time writing up your work as a short paper?\nIs there a conference you have in mind already? Maybe start writing an abstract?"
-  },
-  {
-    "objectID": "slides/day3_slides.html#post-lunch-update",
-    "href": "slides/day3_slides.html#post-lunch-update",
-    "title": "Day 3",
-    "section": "Post-Lunch Update",
-    "text": "Post-Lunch Update\n\n\nGroup work till 3.30pm\nTea and Coffee Break @ 3.30pm\nDebrief the day @ 4.30pm:\n\nPlease share any feedback 😄\nNominate an individual in your group to present on:\n\nWhat has the group achieved today?\nWhat is the plan for tomorrow?\nDo you have anyf bottlenecks? Do you need any further help?\n\n\nEnd of day @ 5pm"
-  },
-  {
-    "objectID": "slides/day5_slides.html",
-    "href": "slides/day5_slides.html",
-    "title": "Day 5",
-    "section": "",
-    "text": "Challenge Presentation Day\nStructure for the presentations:\n\n15 minutes for presentation\n5 minutes for question\n\nWe will break for tea and coffee half way\nAfter the presentations we will conclude with a set of thanks and reflections on the hackathon."
-  },
-  {
-    "objectID": "slides/day5_slides.html#welcome-to-day-5",
-    "href": "slides/day5_slides.html#welcome-to-day-5",
-    "title": "Day 5",
-    "section": "",
-    "text": "Challenge Presentation Day\nStructure for the presentations:\n\n15 minutes for presentation\n5 minutes for question\n\nWe will break for tea and coffee half way\nAfter the presentations we will conclude with a set of thanks and reflections on the hackathon."
-  },
-  {
-    "objectID": "slides/day5_slides.html#what-aspects-made-the-hackathon-effective",
-    "href": "slides/day5_slides.html#what-aspects-made-the-hackathon-effective",
-    "title": "Day 5",
-    "section": "1. What aspects made the hackathon effective?",
-    "text": "1. What aspects made the hackathon effective?\n\nKey Themes:\n\nTeam Diversity: Cross-disciplinary groups brought different perspectives and skillsets.\nClear Goals: Having structured daily goals and well-defined problem statements was valued.\nInteractive Environment: Activities like icebreakers, debriefs and engaging decision-makers fostered collaboration.\n\nSupporting Quotes:\n\n“Being paired up with people of different backgrounds and skills was useful for cohesion of the team.” — Fred Nyamitago Monari\n“The challenges were clearly defined, making it easy to hit the ground running.” — Pete Winskill\n“Regular breaks, ice breaking, collaboration, Hacking itself and Debriefing.” — Tabitha Okech"
-  },
-  {
-    "objectID": "slides/day5_slides.html#what-aspects-of-the-hackathon-could-have-been-improved",
-    "href": "slides/day5_slides.html#what-aspects-of-the-hackathon-could-have-been-improved",
-    "title": "Day 5",
-    "section": "2. What aspects of the hackathon could have been improved?",
-    "text": "2. What aspects of the hackathon could have been improved?\n\nKey Themes:\n\nMore Time: Many participants wanted extended durations for deeper work.\nPre-event Preparation: Better onboarding and earlier dissemination of problem statements.\nEnvironment: Preferences for better-lit and outdoor spaces for breaks.\n\nSupporting Quotes:\n\n“Hopefully, the real work could start sooner, by day 1 or 2 latest to allow more time to build the models and achieve quality work.” — Fred Nyamitago Monari\n“We should increase the time of the hackathon to 2 weeks to allow effective deliverables.” — Lilith Whittles\n“The venue was good, but a room with daylight would be extremely beneficial to the state of the participants.” — Anonymous"
-  },
-  {
-    "objectID": "slides/day5_slides.html#what-aspects-helped-teams-to-collaborate-effectively",
-    "href": "slides/day5_slides.html#what-aspects-helped-teams-to-collaborate-effectively",
-    "title": "Day 5",
-    "section": "3. What aspects helped teams to collaborate effectively?",
-    "text": "3. What aspects helped teams to collaborate effectively?\n\nKey Themes:\n\nInterdisciplinary Collaboration: Teams with diverse roles (developers, policymakers, facilitators) functioned effectively.\nIcebreakers and Social Activities: Jenga and informal group activities eased communication barriers.\nDecision-Maker Involvement: Having decision-makers within teams improved the relevance of outcomes.\n\nSupporting Quotes:\n\n“The team organisation balance… a software engineer, data scientist, facilitators, and the decision maker in one table.” — Anonymous\n“Having the decision-makers in the room was excellent. Icebreaking activities helped us make progress.” — Anonymous\n“The family groups created with hackers, facilitators, and decision-makers captured the reality of the problems we were solving.” — John Ojal"
-  },
-  {
-    "objectID": "slides/day5_slides.html#what-were-the-merits-of-the-hackathon-for-participants",
-    "href": "slides/day5_slides.html#what-were-the-merits-of-the-hackathon-for-participants",
-    "title": "Day 5",
-    "section": "4. What were the merits of the hackathon for participants?",
-    "text": "4. What were the merits of the hackathon for participants?\n\nKey Themes:\n\nSkill Development: Practical learning in coding, modelling, and collaboration.\nNetworking Opportunities: Building connections with professionals across fields.\nEnjoyable Environment: Participants felt part of a family and enjoyed working in their families.\n\nSupporting Quotes:\n\n“Learning Git and GitHub, coding aspects like commit, push, pull, and merge.” — Katy Gaythorpe\n“Meeting, working, learning from, and teaching the team!” — Anonymous\nThe participants were well-motivated and great fun to work with—the Jenga and introductory sessions meant we had quite a relaxed atmosphere, and this really helped with generating ideas.” — Francis Motiri"
-  },
-  {
-    "objectID": "slides/day5_slides.html#what-components-were-effectivecould-be-improved-for-knowledge-translation",
-    "href": "slides/day5_slides.html#what-components-were-effectivecould-be-improved-for-knowledge-translation",
-    "title": "Day 5",
-    "section": "5. What components were effective/could be improved for knowledge translation?",
-    "text": "5. What components were effective/could be improved for knowledge translation?\n\nKey Themes:\n\nFocused Problem Statements: Clear and concise problems made the tools practical.\nLonger Working Time: Extended durations were suggested for deeper exploration and refinement.\nPre-event Planning: Early provision of datasets and structured pre-hackathon planning were beneficial (but could have been even earlier!).\n\nSupporting Quotes:\n\n“Focused problem statements streamline efforts and lead to more impactful outcomes.” — Anonymous\n“In the future, it could be helpful to have more time for testing and refining the final solutions. This will allow the participants to see the project through to a higher level of innovation.” — John Ojal\n“Plan and work pre-hackathon to help with working plans and structure.” — Peter Waweru Mugo\n“Receiving datasets ahead of time might have helped a little.” — Anonymous"
-  },
-  {
-    "objectID": "slides/day5_slides.html#hackathon-milestones-reached",
-    "href": "slides/day5_slides.html#hackathon-milestones-reached",
-    "title": "Day 5",
-    "section": "Hackathon Milestones Reached:",
-    "text": "Hackathon Milestones Reached:\n\nTotal number of Github Commits across groups:\n\n542 Commits 🎇\n\nTotal individuals who committed code:\n\n36 Individuals 💑\n\nTotal number of biscuits consumed:\n\n196 Biscuits (at least…) 🍪"
-  },
-  {
-    "objectID": "slides/intro_slides.html#karibu-sana-welcome",
-    "href": "slides/intro_slides.html#karibu-sana-welcome",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Karibu Sana & Welcome",
-    "text": "Karibu Sana & Welcome\n\n\n\n\n\nWho is here: Over 50 public health researchers, decision makers and software development experts from Kenya and UK.\nWhy we’re here: To solve health policy needs in Kenya, foster new ideas, and make meaningful connections.\nWhat’s next: A week of collaboration, creativity, and ☕ & 🍪."
-  },
-  {
-    "objectID": "slides/intro_slides.html#housekeeping",
-    "href": "slides/intro_slides.html#housekeeping",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Housekeeping",
-    "text": "Housekeeping\n\n\n\nUseful Info:\n\nFacilities, plugs, fire exits, health needs, water etc\n\nWifi:\n\nNetwork Name: NSC BY SWISS-BELHOTEL\nPassword: safari2024\n\nPhotographs:\n\nWe will be taking photos throughout for social media. Smile! 📷\n\nFeedback and Questions:\n\nhttps://cema-mrc-hackathon.github.io/feedback.html"
-  },
-  {
-    "objectID": "slides/intro_slides.html#why-are-we-here-today",
-    "href": "slides/intro_slides.html#why-are-we-here-today",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Why are we here today?",
-    "text": "Why are we here today?\n\nSaw the hackathon advertised and wanted to see what it was about.\nWanted to leave the cold weather in the UK behind. 🥶 ✈️ ☀️\nTo create free, open-source resources to support and facilitate evidence-informed decision making and address health policy needs in Kenya.\n\n\n\nAll of the above"
-  },
-  {
-    "objectID": "slides/intro_slides.html#why-are-we-all-here",
-    "href": "slides/intro_slides.html#why-are-we-all-here",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Why are we all here?",
-    "text": "Why are we all here?\n\n\n\n\n\nWhat brought us here is behind us - let’s try to focus on what we can do this week.\nSo let’s start by taking a moment to pause, breath and shift our focus to the space we are sharing this week.\nMost importantly, this week is an opportunity to connect, share knowledge, and build useful tools and relationships from this hackathon."
-  },
-  {
-    "objectID": "slides/intro_slides.html#what-is-a-hackathon",
-    "href": "slides/intro_slides.html#what-is-a-hackathon",
-    "title": "Bridging The Gap Hackathon",
-    "section": "What is a hackathon?",
-    "text": "What is a hackathon?\nMeeting of individuals with diverse interests and skill sets, working in groups to build new software tools and solutions.\n\nStep 1: Sharing ideas for questions to answer by building new software tools\nStep 2: Sharing research skills and interests in the ideas shared\nStep 3: Identifying the top ideas and software to work on\nStep 4: Formation of groups to work on each identified project"
-  },
-  {
-    "objectID": "slides/intro_slides.html#day-1-schedule",
-    "href": "slides/intro_slides.html#day-1-schedule",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Day 1 Schedule",
-    "text": "Day 1 Schedule\n\nFoundations and Team Formation:\n\n8.30 – 9.00: Registration\n9.00 – 10.30: Grounding, Introductions & Ice Breaker Activities\n11.00 – 12.00: Hackathon Challenge Presentations\n12.00 – 13.00: Idea Generation & Skills Sharing\n14.00 – 15.30: Challenge Refinement, Skills Matching & Team Building\n16.00 – 17.00: End of Day 1 Debrief\n\n\n\n\n☕ & 🍴 Breaks\n\n☕️: Tea breaks: 10.30 – 11.00, 15.30 – 16.00\n🍴: Lunch breaks: 13.00 – 14.00"
-  },
-  {
-    "objectID": "slides/intro_slides.html#days-2---3-schedule",
-    "href": "slides/intro_slides.html#days-2---3-schedule",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Days 2 - 3 Schedule",
-    "text": "Days 2 - 3 Schedule\n\nCoding and Collaboration\n\n8.30 – 9.00: Grounding and plan for the day\n9.00 – 10.00 (Day 2 only): Git and GitHub refresher\n9.00 – 17.00: Dedicated time for project work in each working group, with guidance from facilitators.\n16.00 – 17.00: “Debrief the Day”. Group updates and plans for tomorrow."
-  },
-  {
-    "objectID": "slides/intro_slides.html#day-4-schedule",
-    "href": "slides/intro_slides.html#day-4-schedule",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Day 4 Schedule",
-    "text": "Day 4 Schedule\n\nPresentations and Feedback\n\n8.30 – 9.00: Grounding and plan for the day\n9.00 – 13.00: Dedicated time for project work, with guidance from facilitators.\n12.00 - 13:00 📷 Group Photo 📷\n14.00 – 17.00: Presentations and feedback\n18.30: Social/Dinner at Gaucho (Gaucho - Nairobi ?)"
-  },
-  {
-    "objectID": "slides/intro_slides.html#day-5-schedule",
-    "href": "slides/intro_slides.html#day-5-schedule",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Day 5 Schedule",
-    "text": "Day 5 Schedule\n\nRefinement and Next Steps\n\n8.30 – 9.00: Grounding and plan for the day\n8.30 – 13.00: Project refinement based on feedback received\n14.00 – 16:00: Planning for further development of tools and outputs:\n\nConference Abstracts?\nJournal Submission?\nGrant Applications?\n\n16.00 – 17.00: Closing remarks, final feedback and thanks"
-  },
-  {
-    "objectID": "slides/intro_slides.html#debrief-the-day",
-    "href": "slides/intro_slides.html#debrief-the-day",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Debrief The Day",
-    "text": "Debrief The Day\nEach day will close by reflecting in groups and sharing updates.\n\nDiscussing in our groups:\n\nWhat ground has been covered today?\nWhat the group will be working on tomorrow?\nWhat additional help may be needed?\nHow can we help you?\n\nCreating an update (2-3 minutes) to share with everyone:\n\nWhat your group has been working on?\nAny outputs to demonstrate?\nAnything you have discovered?\nAny help that may be needed tomorrow?"
-  },
-  {
-    "objectID": "slides/intro_slides.html#debrief-the-day---feedback",
-    "href": "slides/intro_slides.html#debrief-the-day---feedback",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Debrief The Day - Feedback",
-    "text": "Debrief The Day - Feedback\n\n\n\nSharing updates with everyone:\n\n\nEach group will present any updates/questions\n\n\nSharing feedback with organisers:\n\n\nThroughout the hackathon, please use the feedback page to share your feedback or ask any questions that you would like answered:\n\nhttps://cema-mrc-hackathon.github.io/feedback.html\n\nAt the end of the day, please also share any feedback as a group, which we will review overnight ready for the next day."
-  },
-  {
-    "objectID": "slides/intro_slides.html#introductions",
-    "href": "slides/intro_slides.html#introductions",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Introductions",
-    "text": "Introductions"
-  },
-  {
-    "objectID": "slides/intro_slides.html#introductions-1",
-    "href": "slides/intro_slides.html#introductions-1",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Introductions",
-    "text": "Introductions\n\nTime to introduce yourselves (in 10s):\n\nName\nCity/County, Country\nJob Title and 1 area of interest\n\n\n\n\n“My name is OJ Watson. I am from London in the UK and I am a lecturer in infectious disease modelling, with a focus on malaria, at Imperial College London”"
-  },
-  {
-    "objectID": "slides/intro_slides.html#introductions---organizers",
-    "href": "slides/intro_slides.html#introductions---organizers",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Introductions - Organizers",
-    "text": "Introductions - Organizers"
-  },
-  {
-    "objectID": "slides/intro_slides.html#introductions---facilitators",
-    "href": "slides/intro_slides.html#introductions---facilitators",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Introductions - Facilitators",
-    "text": "Introductions - Facilitators\n\n\n\n\n\n\n\n\n\nWhat are facilitators?\nWho are the facilitators in the room?"
-  },
-  {
-    "objectID": "slides/intro_slides.html#ice-breaker-activity",
-    "href": "slides/intro_slides.html#ice-breaker-activity",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Ice Breaker Activity",
-    "text": "Ice Breaker Activity\n\n\n\n\n\n\n\n\n\n\nIcebreaker Jenga\n\nSplit into groups of ~10\n\nTake turns removing a block from the tower\nEach block has a question on the block\nAnswer the question and place the block on the tower\nRepeat until the tower falls over"
-  },
-  {
-    "objectID": "slides/intro_slides.html#hackathon-topic-presentations",
-    "href": "slides/intro_slides.html#hackathon-topic-presentations",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Hackathon Topic Presentations",
-    "text": "Hackathon Topic Presentations\n\nCold Chain Capacity Monitoring:\n\nStreamline reporting and visualising vaccine cold chain capacity.\n\nOutbreak Alert Thresholds:\n\nRefining epidemic thresholds for measles outbreak detection.\n\nData Quality Validation:\n\nAutomating detection of anomalies in vaccine data for better accuracy.\n\nSchistosomiasis Elimination Strategies:\n\nConduct cost-effectiveness evaluation of elimination strategies.\n\nMalaria Vaccine Deployment:\n\nOptimising malaria vaccination with with other interventions.\n\nAnimal Surveillance Data Integration:\n\nUnified platform for real-time animal health data analysis and reporting."
-  },
-  {
-    "objectID": "slides/intro_slides.html#section",
-    "href": "slides/intro_slides.html#section",
-    "title": "Bridging The Gap Hackathon",
-    "section": "",
-    "text": "Enjoy a well-deserved break!"
-  },
-  {
-    "objectID": "slides/intro_slides.html#topic-reading",
-    "href": "slides/intro_slides.html#topic-reading",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Topic Reading",
-    "text": "Topic Reading\n\nHave a read of the topic presentations as well for more information.\nAll information is on the hackathon website:\n\nhttps://cema-mrc-hackathon.github.io/materials.html"
-  },
-  {
-    "objectID": "slides/intro_slides.html#idea-generation",
-    "href": "slides/intro_slides.html#idea-generation",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Idea Generation",
-    "text": "Idea Generation\n\nOn the “Challenge Tables”, use the post-its to add brief descriptions of ideas or tools you think would be helpful in answering these topics?\nIf you have ideas for other relevant questions or tools for this 5-day hackathon you would like to build then add these to the “Further Ideas Board”"
-  },
-  {
-    "objectID": "slides/intro_slides.html#skill-identification",
-    "href": "slides/intro_slides.html#skill-identification",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Skill Identification",
-    "text": "Skill Identification\n\nOn the “Skills Mirrors”, use the post-its to share:\n\nWhat research or technical/software skills you have?\nWhat questions you would like to work on?\nYour first name and initial of last name, e.g. Oliver W\nYour affiliation, e.g. CEMA\n\n\n\n\nData Analysis & Statistics (Statistical analysis, Data analysis, Predictive modelling, Stochastic modelling)\n\nMachine Learning & AI (Machine learning, AI-driven solutions, Bayesian inference, Time-series prediction)\n\nEpidemiology & Modelling (Epidemiological modelling, Mathematical modelling, Infectious disease dynamics, Climate-sensitive VPDs)\n\nPublic Health & Policy (Public health policy, Public health management, Evidence synthesis, Vaccine impact estimation)\n\nHealth Economics (Health economics, Cost-effectiveness analysis)\n\nSoftware Engineering (Software development, R packaging,Python programming, Web applications)\n\nData Engineering (Data algorithms, Database management, Interoperability, Integrations expert)\n\nVisualisation & Reporting (Data visualisation, Dashboards and tools)\n\nCommunication & Knowledge Translation (Knowledge translation, Communications strategy)\n\nProject Management & Leadership (Project management, Leadership in public health)"
-  },
-  {
-    "objectID": "slides/intro_slides.html#get-post-it-noting",
-    "href": "slides/intro_slides.html#get-post-it-noting",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Get Post-It Noting!",
-    "text": "Get Post-It Noting!\n\n\nChallenge & Ideas Wall ⬅️\nBrief descriptions of ideas\n\nSkills Wall ➡️\nShort skills description"
-  },
-  {
-    "objectID": "slides/intro_slides.html#lunch-break",
-    "href": "slides/intro_slides.html#lunch-break",
-    "title": "Bridging The Gap Hackathon",
-    "section": "🍴 Lunch Break 🍴",
-    "text": "🍴 Lunch Break 🍴"
-  },
-  {
-    "objectID": "slides/intro_slides.html#project-a-cold-chain-capacity-monitoring",
-    "href": "slides/intro_slides.html#project-a-cold-chain-capacity-monitoring",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Project A: Cold Chain Capacity Monitoring",
-    "text": "Project A: Cold Chain Capacity Monitoring\nKey Proposed Tools/Ideas:\n\nDevelop IoT-based cold chain monitoring sensors. Example: “Add an indicator in KHIS for monthly reporting of cold chain capacity and equipment functionality.”\nCreate an app for real-time temperature alerts. Example: “Enable automated temperature monitoring with real-time notifications for deviations.”\nDesign an automated cold chain capacity planner. Example: “Develop predictive models to estimate cold chain needs based on vaccine demand trends.”\n\n\nAssigned Participants:\n\nPhilip M, Stephanie K, Bonventre A, Peninna N, Fathiya H, Peter M, Jackine N"
-  },
-  {
-    "objectID": "slides/intro_slides.html#project-b-outbreak-alert-thresholds",
-    "href": "slides/intro_slides.html#project-b-outbreak-alert-thresholds",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Project B: Outbreak Alert Thresholds",
-    "text": "Project B: Outbreak Alert Thresholds\nKey Proposed Tools/Ideas:\n\nDevelop a user-friendly data visualisation dashboard. Example: “Create visuals to track outbreak alerts and response timelines.”\nAutomate data validation processes. Example: “Integrate systems to validate alert thresholds against historical data.”\nImplement a centralised database for data integration. Example: “Develop a unified platform to consolidate outbreak reports from multiple regions.”\n\n\nAssigned Participants:\n\nStanley S, Giovanni C, Salmon G, Pius K, Ivy K, Florence A, Lydiah K, Amika P"
-  },
-  {
-    "objectID": "slides/intro_slides.html#project-c-data-quality-validation",
-    "href": "slides/intro_slides.html#project-c-data-quality-validation",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Project C: Data Quality Validation",
-    "text": "Project C: Data Quality Validation\nKey Proposed Tools/Ideas:\n\nCreate a data quality scoring system. Example: “Automate data validation checks for anomalies in health records.”\nDesign a dashboard for tracking data anomalies. Example: “Develop real-time analytics for monitoring data quality metrics.”\nAutomate alerts for outliers in data submissions. Example: “Enable system-generated notifications for inconsistencies in vaccination data.”\n\n\nAssigned Participants:\n\nOmmet EO, Cosmas B, Muchiri Antony, Paul L, Katy G, Fred M"
-  },
-  {
-    "objectID": "slides/intro_slides.html#project-e-malaria-vaccine-deployment",
-    "href": "slides/intro_slides.html#project-e-malaria-vaccine-deployment",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Project E: Malaria Vaccine Deployment",
-    "text": "Project E: Malaria Vaccine Deployment\nKey Proposed Tools/Ideas:\n\nCreate a vaccine deployment tracker. Example: “Track malaria vaccine rollout progress at the sub-county level.”\nDevelop GIS tools to map vaccine coverage. Example: “Visualise vaccine distribution areas to identify coverage gaps.”\nDesign an algorithm to optimise vaccine distribution. Example: “Simulate distribution scenarios to ensure equitable vaccine access.”\n\n\nAssigned Participants:\n\nTabitha O, Augustine M, Geoffrey G, Mumbua M, Daniel B, Pete W, Omar Ahmes, Anne K"
-  },
-  {
-    "objectID": "slides/intro_slides.html#project-f-animal-surveillance-data-integration",
-    "href": "slides/intro_slides.html#project-f-animal-surveillance-data-integration",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Project F: Animal Surveillance Data Integration",
-    "text": "Project F: Animal Surveillance Data Integration\nKey Proposed Tools/Ideas:\n\nDevelop spillover risk mapping tools. Example: “Map high-risk areas for zoonotic disease spillovers based on surveillance data.”\nAutomate surveillance reporting systems. Example: “Streamline submission of surveillance data to improve reporting efficiency.”\nImplement interoperability features between animal and human surveillance. Example: “Integrate animal health data into human surveillance platforms for coordinated response.”\n\n\nAssigned Participants:\n\nRyan M, Anne K, Purity K, Ruth M, Annah M, Mumbua M, Emmanuel O, Argni B"
-  },
-  {
-    "objectID": "slides/intro_slides.html#project-g-workforce-estimation",
-    "href": "slides/intro_slides.html#project-g-workforce-estimation",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Project G: Workforce Estimation",
-    "text": "Project G: Workforce Estimation\nKey Proposed Tools/Ideas:\n\nDevelop a workforce simulation tool. Example: “Model staffing requirements for vaccination campaigns.”\nCreate a training needs assessment platform. Example: “Identify skill gaps and design targeted training programs for health workers.”\nDesign a dashboard to monitor workforce metrics. Example: “Track workforce deployment and utilisation in real-time.”\n\n\nAssigned Participants:\n\nKomundia G, Sabine van E, Ojal T, Penina MN, Francis M, Moses M"
-  },
-  {
-    "objectID": "slides/intro_slides.html#internal-reflection",
-    "href": "slides/intro_slides.html#internal-reflection",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Internal Reflection:",
-    "text": "Internal Reflection:\nFor 3.15pm, please be able to answer the following:\n\nIn your own words what does the challenge encompass? Can you describe it to the decision makers?\nWhat do you need from the decision makers to proceed:\n\n\nWhat data may you need? Can this data be shared? Or “dummy” data made?\nDo you need any additional software or general expertise?\nWhat is the outcomes/output the decision maker wants to see on Thursday?\n\nEnd of Day 1 - after Tea\n\nDiscussing in your groups: What ground has been covered today? What the group will be working on tomorrow? What additional help may be needed?\nCreating an update (2-3 minutes) to share with everyone: What your group has been working on? Any outputs/ideas to share?"
-  },
-  {
-    "objectID": "slides/intro_slides.html#section-1",
-    "href": "slides/intro_slides.html#section-1",
-    "title": "Bridging The Gap Hackathon",
-    "section": "",
-    "text": "Enjoy a well-deserved break!"
-  },
-  {
-    "objectID": "slides/intro_slides.html#end-of-day-1---after-tea",
-    "href": "slides/intro_slides.html#end-of-day-1---after-tea",
-    "title": "Bridging The Gap Hackathon",
-    "section": "End of Day 1 - After Tea",
-    "text": "End of Day 1 - After Tea\n\nGithub Usernames and Repositories:\n\n\nEmail your github username to paula.christen@cema.africa\nWe need everyone who is not a decision maker to be on Github :)\nhttps://github.com/CEMA-MRC-Hackathon\n\n\nUploading Project Plan to Github Repositories:\n\n\nEach project family has a unique Github repository\nPlease add your projet plan fully to the repository\nThis can be in any form (photos of white board, documented README)\n\n\nCreating an update (2-3 minutes) to share with everyone:\n\n\nNominate someone in your group to share your updates\nWhat your group has been working on?\nAny outputs to demonstrate?\nAnything you have discovered?\nAny help that may be needed tomorrow?"
-  },
-  {
-    "objectID": "slides/intro_slides.html#debrief-the-day---feedback-1",
-    "href": "slides/intro_slides.html#debrief-the-day---feedback-1",
-    "title": "Bridging The Gap Hackathon",
-    "section": "Debrief The Day - Feedback",
-    "text": "Debrief The Day - Feedback\n\n\n\nSharing updates with everyone:\n\n\nEach group will present any updates/questions\n\n\nSharing feedback with organisers:\n\n\nThroughout the hackathon, please use the feedback page to share your feedback or ask any questions that you would like answered:\n\nhttps://cema-mrc-hackathon.github.io/feedback.html\n\nAt the end of the day, please also share any feedback as a group, which we will review overnight ready for the next day."
-  },
-  {
-    "objectID": "materials.html",
-    "href": "materials.html",
-    "title": "Shared Slides",
-    "section": "",
-    "text": "Day 1 Slides\nDay 2 Slides\nDay 3 Slides\nDay 4 Slides (same as Day 3)\nDay 5 Slides\n\n\n\n\n\nIntroduction to Git & Github\nTutorial: Git, SSH Keys, Github on Mac\nTutorial: Git, SSH Keys, Github on Windows\n\n\n\n\n\nResearch Topic Presentations"
-  },
-  {
-    "objectID": "materials.html#presentations-associated-with-this-hackathon",
-    "href": "materials.html#presentations-associated-with-this-hackathon",
-    "title": "Shared Slides",
-    "section": "",
-    "text": "Day 1 Slides\nDay 2 Slides\nDay 3 Slides\nDay 4 Slides (same as Day 3)\nDay 5 Slides"
-  },
-  {
-    "objectID": "materials.html#presentations-on-github-training",
-    "href": "materials.html#presentations-on-github-training",
-    "title": "Shared Slides",
-    "section": "",
-    "text": "Introduction to Git & Github\nTutorial: Git, SSH Keys, Github on Mac\nTutorial: Git, SSH Keys, Github on Windows"
-  },
-  {
-    "objectID": "materials.html#resources-and-documents-associated-with-this-hackathon",
-    "href": "materials.html#resources-and-documents-associated-with-this-hackathon",
-    "title": "Shared Slides",
-    "section": "",
-    "text": "Research Topic Presentations"
-  },
-  {
-    "objectID": "faculty/geoffrey-githinji.html",
-    "href": "faculty/geoffrey-githinji.html",
-    "title": "Geoffrey Githinji",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "faculty/stephanie-kamunya.html",
-    "href": "faculty/stephanie-kamunya.html",
-    "title": "Stephanie Kamunya",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "faculty/patricia-nyokabi.html",
-    "href": "faculty/patricia-nyokabi.html",
-    "title": "Patricia Nyokabi",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "faculty/tabitha-okech.html",
-    "href": "faculty/tabitha-okech.html",
-    "title": "Tabitha Okech",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "faculty/thumbi-mwangi.html",
-    "href": "faculty/thumbi-mwangi.html",
-    "title": "Thumbi Mwangi",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "faculty/waithera-mwangi.html",
-    "href": "faculty/waithera-mwangi.html",
-    "title": "Waithera Mwangi",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "faculty/billy-bauzile.html",
-    "href": "faculty/billy-bauzile.html",
-    "title": "Billy Bauzile",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "faculty/cameline-orlendo.html",
-    "href": "faculty/cameline-orlendo.html",
-    "title": "Cameline Orlendo",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "faculty/george-paul-omondi.html",
-    "href": "faculty/george-paul-omondi.html",
-    "title": "George Paul Omondi",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "faculty/emilie-pothin.html",
-    "href": "faculty/emilie-pothin.html",
-    "title": "Emilie Pothin",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "faculty/alice-kamau.html",
-    "href": "faculty/alice-kamau.html",
-    "title": "Alice Kamau",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "faculty/njoki-kimani.html",
-    "href": "faculty/njoki-kimani.html",
-    "title": "Njoki Kimani",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "faculty/israel-ukawaba.html",
-    "href": "faculty/israel-ukawaba.html",
-    "title": "Israel Ukawaba",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "schedule.html#week-1",
-    "href": "schedule.html#week-1",
-    "title": "Course Schedule",
-    "section": "",
-    "text": "Time\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 09:00\nIce-breaker Session\nPurity\n\n\n09:00 - 11:00\nLesson 1: Definitions of public health, epidemiology, & models; Fundamental principles and terminology; Methods for measuring disease frequency\nGeorge Paul\n\n\n11:00 - 11:30\nCoffee Break\n\n\n\n11:30 - 13:30\nLesson 2: Role of epidemiology in public health & disease control; Epidemiology study designs and their applications\nGeoffrey/Alice\n\n\n13:30 - 14:30\nLunch Break\n\n\n\n14:30 - 16:30\nLesson 3: R programming fundamentals and data visualization\nNjoki/Alice\n\n\n16:30 - 17:00\nTrainer Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 4: Introduction to mathematical modelling (role of modelling and types of models); Introduction to generic compartmental models\nGeoffrey/Billy\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 5: Model construction - constructing a simple malaria model (SIS diagrams)\nSTPH (Emilie, Cameline, Billy)/Njoki\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 6: Flow diagram to differential equations (simple malaria model)\nSTPH (Emilie, Cameline, Billy)/Njoki\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTutorial on generic compartmental models\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 7: Constructing and analyzing simple infectious disease models (coding, solving equations)\nSTPH (Emilie, Cameline, Billy)/John Ojal\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 8: Elementary vector-host model (malaria model)\nStephanie/John O\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 9: Adding complexity to malaria models (age, seasonality, immunity, treatment)\nStephanie/John O\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTutorial Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 10: Interventions of malaria models\nSTPH/Stephanie\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 11: Scenario analysis\nSTPH/Stephanie\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 12: Version control using Git and GitHub to manage and share R code\nAlice\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nIntroduction to Group Projects\nCameline/STPH/Mutono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 14: Sensitivity analysis\nIvy/Mutono\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 15: Reproducible analysis in R using R Markdown and interactive visualizations\nGeoffrey\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nGroup Project Work\nCameline/STPH/Mutono\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTrainer Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:30 - 09:30\nPracticals: Simulating a malaria model\nSTPH/Stephanie\n\n\n09:30 - 10:00\nCoffee Break\n\n\n\n10:00 - 13:00\nGroup Project Work\nCameline/STPH/Mutono\n\n\n\n\n\n\nFull day excursion and recreational activities"
-  },
-  {
-    "objectID": "schedule.html#week-2",
-    "href": "schedule.html#week-2",
-    "title": "Course Schedule",
-    "section": "",
-    "text": "Time\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 16: Introduction to parameterising a model\nJohn Ojal\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 17: Introduction to model fitting and Frequentists methods (LSE and MLE)\nJohn Ojal/Emilie/STPH\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 18: Interactive visualizations in R shiny/Dashboard\nGeoffrey/Emilie/STPH\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTrainer Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 19: Empirical data to fit malaria models via Bayesian methods\nEmilie/STPH\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nGroup Project Work\n\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 20: Introduction to Network Modeling in Epidemiology\nGeorge Paul/Billy\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nLesson 21: Network Models in Malaria Epidemiology\nGeorge Paul/Billy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 22: Principles of Health Economic Evaluation\nPatricia\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 23: Costing Approaches and Methods\nPatricia\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 24: Measuring Health Outcomes\nTabitha\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTutorial: Modelling for economic evaluation\nTabitha/John Ojal\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 25: Strategies for presenting data and model results to stakeholders\nGeoffrey/Cameline\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 26: Writing clear, concise policy briefs and reports\nThumbi\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 17:00\nGroup Project Work\nCameline/STPH/Mutono\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nGroup Project Presentations\n\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nGroup Project Presentations\n\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nGroup Project Presentations\n\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nClosing Lecture and Certificate Ceremony\n\n\n\n\n\n\n\nCheckout and departures\n\nNote: This schedule is subject to minor adjustments based on the progress and needs of participants. Coffee and lunch breaks are scheduled to provide opportunities for informal discussions and networking."
   }
 ]
