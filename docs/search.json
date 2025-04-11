@@ -1,0 +1,205 @@
+[
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Course Schedule",
+    "section": "",
+    "text": "This intensive two-week program provides comprehensive training in mathematical modeling of infectious diseases with a focus on malaria. The curriculum covers fundamental concepts in epidemiology, advanced modelling techniques, economic evaluation, and effective communication of modelling results to stakeholders.\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 09:00\nIce-breaker Session\nPurity\n\n\n09:00 - 11:00\nLesson 1: Definitions of public health, epidemiology, & models; Fundamental principles and terminology; Methods for measuring disease frequency\nGeorge Paul\n\n\n11:00 - 11:30\nCoffee Break\n\n\n\n11:30 - 13:30\nLesson 2: Role of epidemiology in public health & disease control; Epidemiology study designs and their applications\nGeoffrey/Alice\n\n\n13:30 - 14:30\nLunch Break\n\n\n\n14:30 - 16:30\nLesson 3: R programming fundamentals and data visualization\nNjoki/Alice\n\n\n16:30 - 17:00\nTrainer Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 4: Introduction to mathematical modelling (role of modelling and types of models); Introduction to generic compartmental models\nGeoffrey/Billy\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 5: Model construction - constructing a simple malaria model (SIS diagrams)\nSTPH (Emilie, Cameline, Billy)/Njoki\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 6: Flow diagram to differential equations (simple malaria model)\nSTPH (Emilie, Cameline, Billy)/Njoki\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTutorial on generic compartmental models\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 7: Constructing and analyzing simple infectious disease models (coding, solving equations)\nSTPH (Emilie, Cameline, Billy)/John Ojal\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 8: Elementary vector-host model (malaria model)\nStephanie/John O\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 9: Adding complexity to malaria models (age, seasonality, immunity, treatment)\nStephanie/John O\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTutorial Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 10: Interventions of malaria models\nSTPH/Stephanie\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 11: Scenario analysis\nSTPH/Stephanie\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 12: Version control using Git and GitHub to manage and share R code\nAlice\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nIntroduction to Group Projects\nCameline/STPH/Mutono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 14: Sensitivity analysis\nIvy/Mutono\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 15: Reproducible analysis in R using R Markdown and interactive visualizations\nGeoffrey\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nGroup Project Work\nCameline/STPH/Mutono\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTrainer Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:30 - 09:30\nPracticals: Simulating a malaria model\nSTPH/Stephanie\n\n\n09:30 - 10:00\nCoffee Break\n\n\n\n10:00 - 13:00\nGroup Project Work\nCameline/STPH/Mutono\n\n\n\n\n\n\nFull day excursion and recreational activities\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 16: Introduction to parameterising a model\nJohn Ojal\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 17: Introduction to model fitting and Frequentists methods (LSE and MLE)\nJohn Ojal/Emilie/STPH\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 18: Interactive visualizations in R shiny/Dashboard\nGeoffrey/Emilie/STPH\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTrainer Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 19: Empirical data to fit malaria models via Bayesian methods\nEmilie/STPH\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nGroup Project Work\n\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 20: Introduction to Network Modeling in Epidemiology\nGeorge Paul/Billy\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nLesson 21: Network Models in Malaria Epidemiology\nGeorge Paul/Billy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 22: Principles of Health Economic Evaluation\nPatricia\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 23: Costing Approaches and Methods\nPatricia\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 24: Measuring Health Outcomes\nTabitha\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTutorial: Modelling for economic evaluation\nTabitha/John Ojal\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 25: Strategies for presenting data and model results to stakeholders\nGeoffrey/Cameline\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 26: Writing clear, concise policy briefs and reports\nThumbi\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 17:00\nGroup Project Work\nCameline/STPH/Mutono\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nGroup Project Presentations\n\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nGroup Project Presentations\n\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nGroup Project Presentations\n\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nClosing Lecture and Certificate Ceremony\n\n\n\n\n\n\n\nCheckout and departures\n\nNote: This schedule is subject to minor adjustments based on the progress and needs of participants. Coffee and lunch breaks are scheduled to provide opportunities for informal discussions and networking."
+  },
+  {
+    "objectID": "schedule.html#week-1",
+    "href": "schedule.html#week-1",
+    "title": "Course Schedule",
+    "section": "",
+    "text": "Time\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 09:00\nIce-breaker Session\nPurity\n\n\n09:00 - 11:00\nLesson 1: Definitions of public health, epidemiology, & models; Fundamental principles and terminology; Methods for measuring disease frequency\nGeorge Paul\n\n\n11:00 - 11:30\nCoffee Break\n\n\n\n11:30 - 13:30\nLesson 2: Role of epidemiology in public health & disease control; Epidemiology study designs and their applications\nGeoffrey/Alice\n\n\n13:30 - 14:30\nLunch Break\n\n\n\n14:30 - 16:30\nLesson 3: R programming fundamentals and data visualization\nNjoki/Alice\n\n\n16:30 - 17:00\nTrainer Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 4: Introduction to mathematical modelling (role of modelling and types of models); Introduction to generic compartmental models\nGeoffrey/Billy\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 5: Model construction - constructing a simple malaria model (SIS diagrams)\nSTPH (Emilie, Cameline, Billy)/Njoki\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 6: Flow diagram to differential equations (simple malaria model)\nSTPH (Emilie, Cameline, Billy)/Njoki\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTutorial on generic compartmental models\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 7: Constructing and analyzing simple infectious disease models (coding, solving equations)\nSTPH (Emilie, Cameline, Billy)/John Ojal\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 8: Elementary vector-host model (malaria model)\nStephanie/John O\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 9: Adding complexity to malaria models (age, seasonality, immunity, treatment)\nStephanie/John O\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTutorial Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 10: Interventions of malaria models\nSTPH/Stephanie\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 11: Scenario analysis\nSTPH/Stephanie\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 12: Version control using Git and GitHub to manage and share R code\nAlice\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nIntroduction to Group Projects\nCameline/STPH/Mutono\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 14: Sensitivity analysis\nIvy/Mutono\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 15: Reproducible analysis in R using R Markdown and interactive visualizations\nGeoffrey\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nGroup Project Work\nCameline/STPH/Mutono\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTrainer Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:30 - 09:30\nPracticals: Simulating a malaria model\nSTPH/Stephanie\n\n\n09:30 - 10:00\nCoffee Break\n\n\n\n10:00 - 13:00\nGroup Project Work\nCameline/STPH/Mutono\n\n\n\n\n\n\nFull day excursion and recreational activities"
+  },
+  {
+    "objectID": "schedule.html#week-2",
+    "href": "schedule.html#week-2",
+    "title": "Course Schedule",
+    "section": "",
+    "text": "Time\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 16: Introduction to parameterising a model\nJohn Ojal\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 17: Introduction to model fitting and Frequentists methods (LSE and MLE)\nJohn Ojal/Emilie/STPH\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 18: Interactive visualizations in R shiny/Dashboard\nGeoffrey/Emilie/STPH\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTrainer Session\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 19: Empirical data to fit malaria models via Bayesian methods\nEmilie/STPH\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nGroup Project Work\n\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 20: Introduction to Network Modeling in Epidemiology\nGeorge Paul/Billy\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nLesson 21: Network Models in Malaria Epidemiology\nGeorge Paul/Billy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 22: Principles of Health Economic Evaluation\nPatricia\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 23: Costing Approaches and Methods\nPatricia\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nLesson 24: Measuring Health Outcomes\nTabitha\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nTutorial: Modelling for economic evaluation\nTabitha/John Ojal\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nLesson 25: Strategies for presenting data and model results to stakeholders\nGeoffrey/Cameline\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nLesson 26: Writing clear, concise policy briefs and reports\nThumbi\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 17:00\nGroup Project Work\nCameline/STPH/Mutono\n\n\n\n\n\n\n\n\n\nTime\nActivity\nFacilitator(s)\n\n\n\n\n08:00 - 10:00\nGroup Project Presentations\n\n\n\n10:00 - 10:30\nCoffee Break\n\n\n\n10:30 - 12:30\nGroup Project Presentations\n\n\n\n12:30 - 13:30\nLunch Break\n\n\n\n13:30 - 15:30\nGroup Project Presentations\n\n\n\n15:30 - 16:00\nCoffee Break\n\n\n\n16:00 - 17:00\nClosing Lecture and Certificate Ceremony\n\n\n\n\n\n\n\nCheckout and departures\n\nNote: This schedule is subject to minor adjustments based on the progress and needs of participants. Coffee and lunch breaks are scheduled to provide opportunities for informal discussions and networking."
+  },
+  {
+    "objectID": "participants.html",
+    "href": "participants.html",
+    "title": "Participants",
+    "section": "",
+    "text": "Participants\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/brian-njuguna.html",
+    "href": "faculty/brian-njuguna.html",
+    "title": "Brian Njuguna",
+    "section": "",
+    "text": "Brian is a data Scientist with a Bachelor of Science in Statistics from Egerton University. He has a deep fascination with machine learning and statistics modelling, constantly seeking opportunities to expand his knowledge in these fields.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/ryan-musasia.html",
+    "href": "faculty/ryan-musasia.html",
+    "title": "Ryan Musasia",
+    "section": "",
+    "text": "I’m a freshly minted Data Scientist who just escaped the clutches of academia and is ready to conquer the data-driven world with wit, charm, and a whole lot of Python magic. My expertise lies in unraveling intricate data puzzles rather than solving crimes. My core competencies revolve around employing machine learning, statistical analysis, and advanced methodologies to extract valuable insights from complex datasets. My passion lies in uncovering concealed information within data and converting it into actionable intelligence that drives informed decision-making. Rest assured, there’s no sorcery involved (well, at least not beyond the occasional code magic).\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/njoki-kimani.html",
+    "href": "faculty/njoki-kimani.html",
+    "title": "Njoki Kimani",
+    "section": "",
+    "text": "Njoki is undertaking her Ph.D. in Infectious Disease Epidemiology at CEMA, focusing on the burden and control of COVID-19 in Kenya. She holds an MSc in Epidemiology from the Imperial College London and a medical degree from the University of Nairobi. She is also a Global South Fellow in the Preparedness and Response Division at CEPI. Her fellowship project is focused on designing and establishing a virtual Emergency Collaboration Environment (vECE), that will enhance collaboration, communication and coordination of an end-to-end vaccine response. She equally works in Kiambu County as the County epidemiologist and the county public health emergency operations center (PHEOC) manager.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/john-ojal.html",
+    "href": "faculty/john-ojal.html",
+    "title": "John Ojal",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "faculty/emilie-pothin.html",
+    "href": "faculty/emilie-pothin.html",
+    "title": "Emilie Pothin",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "faculty/israel-ukawaba.html",
+    "href": "faculty/israel-ukawaba.html",
+    "title": "Israel Ukawaba",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "faculty/thumbi-mwangi.html",
+    "href": "faculty/thumbi-mwangi.html",
+    "title": "Thumbi Mwangi",
+    "section": "",
+    "text": "Thumbi Mwangi is an infectious disease epidemiologist combining classical epidemiology, applied epidemiological modelling and data science to improve the speed and quality of policy decision making in human and animal health. His research program conducts population-based studies, statistical and mathematical tools to understand the epidemiology, optimize surveillance and control of zoonotic diseases.\nHis current research includes: - implementation research for the elimination of dog-mediated human rabies - optimal use and placement of primary healthcare services - improvement of essential health services - syndromic surveillance for early detection of zoonotic spillover - transmission and control of animal and human brucellosis - livestock interventions for improvement of human nutritional status - transmission dynamics and control of SARS-CoV2 in Kenya - analytics and epidemiological modelling to support elimination of preventative chemotherapy Neglected Tropical Diseases (NTD) in Africa, working in collaboration with the NTD modelling consortium\nHe serves as the Chair of the National Technical Committee on Modelling advising the Kenya government on COVID-19 responses, member of the National Rabies Elimination Coordination Committee charged with oversight of the implementation of the rabies elimination strategy for Kenya, and member of Kenya’s Zoonotic Technical Working Group. Internationally, he is a member of the Africa CDC COVID-19 modelling group, member of the Technical Review Committee of the African Union Africa Risk Capacity - epidemics and outbreaks program. He has served as a member of the World Health Organization (WHO) rabies modelling consortium, and a member of WHO Rabies Expert Group that reviewed and updated the current WHO rabies guidelines.\nHis research has been funded by the:\n\nWellcome Trust\nBill and Melinda Gates Foundation\nWorld Health Organization\nUK Global Challenges Research Fund\nKenya National Research Fund\nPaul G Allen Family Foundation\nUK Medical Research Council\nScottish Funding Council\nUSAID\nSanofi Pasteur\nthe German Research Foundation.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/cameline-orlendo.html",
+    "href": "faculty/cameline-orlendo.html",
+    "title": "Cameline Orlendo",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "faculty/george-paul-omondi.html",
+    "href": "faculty/george-paul-omondi.html",
+    "title": "George Paul Omondi",
+    "section": "",
+    "text": "George is a Senior Research Fellow at the Centre for Epidemiological Modelling and Analysis (CEMA) at the University of Nairobi. He holds a PhD in Epidemiology from the University of Minnesota, and a Bachelor of Veterinary Medicine from the University of Nairobi.\nHe specializes in applied epidemiological modeling, and data analytics integrating field data with computational methods to develop decision support systems, and predictive tools, and generate actionable insights into human-animal health systems, disease surveillance and control, risk assessment, and public health policy. His interests span developing data intelligence systems bridging human, animal, and environmental health under a One Health lens.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/billy-bauzile.html",
+    "href": "faculty/billy-bauzile.html",
+    "title": "Billy Bauzile",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "faculty/purity-wambui.html",
+    "href": "faculty/purity-wambui.html",
+    "title": "Purity Wambui",
+    "section": "",
+    "text": "Dr Purity Wambui Nyaikamba is the Scientific Coordinator for the African Modelling Network for NTDs (AM2NTD) and Africa Modelling and Analytics for Women (AMAX) programs. A dedicated advocate for global health, she holds a bachelor’s degree in Pharmacy from Jomo Kenyatta University of Agriculture and Technology (JKUAT) and more recently, an MSc in Health Policy, Planning, and Financing from the London School of Economics and Political Science (LSE) and the London School of Hygiene and Tropical Medicine (LSHTM). Purity brings over seven years of experience in health policy and advocacy, program management and fostering strategic partnerships. Prior to joining CEMA, Purity held roles in pharmaceutical regulatory affairs and led partnerships and advocacy for the first global youth organization dedicated to ending NTDs. Passionate about the role of leadership and youth engagement in driving social change, Purity is a Mandela Washington Fellowship alumna, a member of the International Leadership Association and an Advisor and Honorary Life Member of the International Pharmaceutical Students’ Federation.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/stanley-sayianka.html",
+    "href": "faculty/stanley-sayianka.html",
+    "title": "Stanley Sayianka",
+    "section": "",
+    "text": "I am an aspiring research scientist with a strong foundation in statistical methods. I am currently specializing in epidemiology and quantitative finance. I am fascinated by how learning algorithms adapt and evolve, particularly in response to the complexities of the real world. My interests include machine learning and probabilistic (Bayesian) reasoning, and I am dedicated to integrating my studies with practical experiences to drive impactful results.\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/geoffrey-githinji.html",
+    "href": "faculty/geoffrey-githinji.html",
+    "title": "Geoffrey Githinji",
+    "section": "",
+    "text": "Geoffrey is a research fellow in Malaria Interventions Modelling. In this role, he is supporting national malaria control programs by leveraging disease modelling and data analytics to inform strategic decisions and operational plans. Dr. Githinji brings extensive experience from the National Malaria Control Program in Kenya and his recent work with Swiss TPH’s Analytics and Intervention Modelling Team. His expertise spans infectious disease modelling, data analytics, and public health surveillance. With a background that uniquely combines clinical practice, field epidemiology, and mathematical modelling, he is well-positioned to translate data analysis and modelling outputs into actionable intervention policies for malaria control in endemic countries.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/stephanie-kamunya.html",
+    "href": "faculty/stephanie-kamunya.html",
+    "title": "Stephanie Kamunya",
+    "section": "",
+    "text": "Stephanie is a postdoctoral research fellow at the Centre for Epidemiological Modelling and Analysis (CEMA). She holds a PhD from the University of Cape Town where her thesis focused on antimalarial drug discovery. She is currently focused on applying her experience in malaria research into mathematical modelling.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/waithera-mwangi.html",
+    "href": "faculty/waithera-mwangi.html",
+    "title": "Waithera Mwangi",
+    "section": "",
+    "text": "Waithera is an administrative officer at the Centre for Epidemiological Modelling and Analysis (CEMA). In her role, she supports the training component- facilitating the planning and execution. She is dedicated to fostering efficient systems and processes that enhance the center’s capacity to address public health challenges. She holds a B.A. in International Studies.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/ivy-kombe.html",
+    "href": "faculty/ivy-kombe.html",
+    "title": "Ivy Kombe",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "faculty/tabitha-okech.html",
+    "href": "faculty/tabitha-okech.html",
+    "title": "Tabitha Okech",
+    "section": "",
+    "text": "Tabitha Okech is a dedicated Public Health Practitioner and Pharmacist based in Nairobi, Kenya, with over a decade of experience in managing preventive and promotive public health programs. She is currently pursuing a Ph.D. in Health Technology Assessment from Mahidol University, Thailand, and has undergone advanced training in Field Epidemiology and Laboratory Training from Moi University leading to a MSc in Field Epidemiology. She joins CEMA to advance the use of HTA in collaboration with researchers, health professionals, and policymakers in various areas to help communicate the value of health initiatives using economic evidence in Kenya and across Africa. She intends to contribute to the training of HTA to support universal health coverage (UHC) and health systems in Kenya. Her focus will be on how to apply health economics and health technology assessment (HTA) in the real-world setting as well as how to advance methods in economic evaluation. She hopes to focus on conducting economic evaluations using various methods and using person-level data from sources such as administrative databases, registries, and clinical trials in health economics and HTA to support evidence generation and policy-making process. Dr. Okech has extensive experience in infectious disease surveillance, response, and management. She has played critical roles in various national public health initiatives, including supplemental immunization activities across multiple counties in Kenya, investigation of disease outbreaks and risk assessment for Yellow Fever outbreaks at the National Public Health Emergency Operation Centers. Additionally, she has played critical roles during the national roll-out of multiple COVID-19 vaccines, including planning and training of sub-national teams. She led targeted spontaneous reporting for adverse events following COVID-19 vaccination. Her professional journey includes significant leadership roles such as the Sub-County Medical Officer of Health in both Kuria West and Awendo Sub-Counties, where she supervised hundreds of healthcare workers and community health volunteers. She has been instrumental in steering epidemiological investigations, managing infectious disease outbreaks, and enhancing health service delivery at the county level. Her expertise spans across pharmacy, public health, epidemiology, health economics, and health policy formulation through health technology assessment (HTA). She is a proficient communicator, fluent in English and Kiswahili, and skilled in data analytics and economic modelling for health. Her contributions to public health have been recognized through various presentations and abstracts at international conferences, and she actively engages in community and professional organizations, including the Pharmaceutical Society of Kenya and the Field Epidemiologists Society of Kenya. In her career, she has demonstrated a commitment to improving public health outcomes through evidence-based decision-making, capacity building, and effective stakeholder management.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/mutono-nyamai.html",
+    "href": "faculty/mutono-nyamai.html",
+    "title": "Mutono Nyamai",
+    "section": "",
+    "text": "Mutono is a Senior Research Fellow at the Centre for Epidemiological Modelling and Analysis (CEMA) at the University of Nairobi, and an Assistant Professor at the Paul G Allen School for Global Health, Washington State University. She specializes in applied epidemiological modeling to generate evidence to guide and support the control and elimination of neglected tropical diseases (NTDs). Her current research focuses on estimating the burden of visceral leishmaniasis in East Africa and identifying suitable habitat areas for its transmission, modeling to develop tailored treatment strategies for schistosomiasis and soil-transmitted helminths, and works in close collaboration with the Ministry of Health in Kenya. Additionally, she is an active member of the NTD Modelling Consortium and the African Modelling Network for NTDs, contributing to collaborative efforts that accelerate progress toward NTD elimination goals in Africa.\nShe holds a PhD from the University of Nairobi, an MSc in Data Analytics from the University of Glasgow and an MSc in Environment Governance from the University of Nairobi.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/patricia-nyokabi.html",
+    "href": "faculty/patricia-nyokabi.html",
+    "title": "Patricia Nyokabi",
+    "section": "",
+    "text": "Patricia has extensive experience in Health Economics and Financing projects within the Eastern and Southern Africa region. She has served diligently in Public Service with an exceedingly fruitful career as a Pharmacist. She has also worked in the Health Financing Directorate at the Ministry of Health, where she participated in the Development of the UHC Health Financing approach and the Benefits Package Design. Her current/past research areas include: · Systematic Review of Kidney Replacement Therapies · Cost-utility analysis of Kidney Replacement Therapies in Kenya: Evidence for Universal Health Coverage · Determining Costs and Utilities for End-Stage Kidney Disease Patients in Kenya · Economic Evaluation of Post-kidney transplant treatment · Costing for a Cancer treatment program at a tertiary level hospital in Kenya. · Feeding patterns and the corresponding nutritional status of children in Kenya Patricia has an MSc in Health Economics and Policy from the University of Nairobi, a Bachelor of Pharmacy from JKUAT and is in the final stage of a postgraduate program in HTA at Mahidol University in Thailand. She serves actively in the Health Economics Association of Kenya and has contributed immensely to the success of the Annual Scientific Symposium of the Pharmaceutical Society of Kenya over the last 6 years. She has presented abstracts in local & international conferences in Malaysia and Thailand. She is an ardent trainer of Health Economics and HTA concepts.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "faculty/alice-kamau.html",
+    "href": "faculty/alice-kamau.html",
+    "title": "Alice Kamau",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mathematical Modelling of Infectious Diseases (Malaria)",
+    "section": "",
+    "text": "18th - 29th August 2025"
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Mathematical Modelling of Infectious Diseases (Malaria)",
+    "section": "Background",
+    "text": "Background\nThe Center for Epidemiological Modelling and Analysis (CEMA) at the University of Nairobi, in collaboration with the Swiss Tropical And Public Health Institute (Swiss TPH) is hosting a specialized training course on mathematical modelling of infectious diseases, focusing on Malaria. It will be a two-week event that will host participants from malaria-endemic African countries and is open to researchers and health science professionals with quantitative backgrounds in mathematics, statistics, epidemiology, and data science. The course will cover infectious disease modelling theory, specifically malaria, and provide hands-on experience with R programming and model simulations. Participants will apply their learning through guided projects applicable to their specific areas of interest in mathematical modelling of malaria."
+  },
+  {
+    "objectID": "index.html#learning-objectives",
+    "href": "index.html#learning-objectives",
+    "title": "Mathematical Modelling of Infectious Diseases (Malaria)",
+    "section": "Learning objectives:",
+    "text": "Learning objectives:\nThe course aims to provide participants with a comprehensive understanding and practical skills in epidemiology, mathematical modelling of diseases, R coding, simulation algorithms, health economic evaluation, and practical policy communication, specifically tailored to the context of malaria control and elimination. The course will also introduce the participants to real-life cases on the application of malaria country modelling. Curriculum:\n\nIntroduction to public health, epidemiology, and infectious disease modelling\n\n\nDefinitions of public health, epidemiology, & models and how they relate.\nFundamental principles and terminology in epidemiology.\nMethods for measuring disease frequency.\nEpidemiology study designs and their applications in epidemiology.\nRole of epidemiology in public health and disease control.\n\n\nFoundational concepts and methodologies of mathematical modelling of infectious diseases\n\n\nGrasp the basic principles of mathematical modelling in infectious diseases.\nIntroduction: Learn about compartmental models (e.g., SEIR, SIS) and their applications.\nDevelop skills in constructing and analyzing simple infectious disease models (malaria).\nUnderstand how (malaria) modelling can inform public health decisions and interventions.\n\n\nR coding for data management / data analysis / version control\n\n\nR for data wrangling and visualizing epidemiological and modelling data,\nCoding and simulating mathematical models of infectious diseases in R, including implementing numerical methods for solving differential equations and calibrating models with empirical data.\nVersion control using Git and GitHub to manage and share R code, including creating repositories, committing changes, branching, and conducting code reviews.\nReproducible analysis in R using R Markdown and interactive visualizations in R shiny.\n\n\nGain expertise in malaria-specific modelling applied to strategic decision making\n\n\nUnderstand and apply fundamental principles of malaria-specific mathematical models, including the Ross-Macdonald model.\nAcquire practical skills in constructing, parameterizing, and analyzing malaria transmission models and use these models to evaluate the effectiveness of various intervention strategies.\nGain expertise in scenario and intervention modelling and how this could be applied to decision-making.\nInterpretation of model outputs, model validation with empirical data, and effective communication of findings to inform public health policies and interventions.\n\n\nHealth Economic Evaluation\n\n\nUnderstand the principles of health economic evaluation and its role in public health decision-making.\nLearn different costing approaches and methods for estimating healthcare costs.\nDevelop skills in measuring health outcomes, including the use of quality-adjusted life years (QALYs) and disability-adjusted life years (DALYs).\nGain expertise in modelling for economic evaluation, applying cost-effectiveness analysis to malaria interventions and policy decisions\n\n\nLearn techniques for effectively communicating complex modelling insights\n\n\nDevelop strategies for presenting data and model results to stakeholders.\nEnhance skills in writing clear, concise policy briefs and reports.\nBuild confidence in advocating for evidence-based public health decisions."
+  },
+  {
+    "objectID": "index.html#funding",
+    "href": "index.html#funding",
+    "title": "Mathematical Modelling of Infectious Diseases (Malaria)",
+    "section": "Funding",
+    "text": "Funding\nWe are extremely grateful to our sponsors:\n\nAMMNET Large Award events to support capacity building in high burden countries.\nThe Gates Foundation (INV-044079) for CEMA."
+  },
+  {
+    "objectID": "faculty.html",
+    "href": "faculty.html",
+    "title": "Faculty",
+    "section": "",
+    "text": "Faculty\n\n\n\n\n\n\n\n\n\n\n\nAlice Kamau\n\n\nLiverpool School of Tropical Medicine\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBilly Bauzile\n\n\nSwiss Tropical and Public Health Institute\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBrian Njuguna\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCameline Orlendo\n\n\nSwiss Tropical and Public Health Institute\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmilie Pothin\n\n\nSwiss Tropical and Public Health Institute\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeoffrey Githinji\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGeorge Paul Omondi\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIsrael Ukawaba\n\n\nSwiss Tropical and Public Health Institute\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIvy Kombe\n\n\nKenya Medical Research Institute - Wellcome Trust\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJohn Ojal\n\n\nKenya Medical Research Institute - Wellcome Trust\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMutono Nyamai\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNjoki Kimani\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPatricia Nyokabi\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPurity Wambui\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nOperations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRyan Musasia\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStanley Sayianka\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nMentor\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStephanie Kamunya\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTabitha Okech\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThumbi Mwangi\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nFaculty\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWaithera Mwangi\n\n\nCentre for Epidemiological Modelling and Analysis (CEMA)\n\n\n\nOperations\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n Back to top"
+  }
+]

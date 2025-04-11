@@ -1,0 +1,31 @@
+[
+  {
+    "listing": "/participants.html",
+    "items": []
+  },
+  {
+    "listing": "/faculty.html",
+    "items": [
+      "/faculty/alice-kamau.html",
+      "/faculty/billy-bauzile.html",
+      "/faculty/brian-njuguna.html",
+      "/faculty/cameline-orlendo.html",
+      "/faculty/emilie-pothin.html",
+      "/faculty/geoffrey-githinji.html",
+      "/faculty/george-paul-omondi.html",
+      "/faculty/israel-ukawaba.html",
+      "/faculty/ivy-kombe.html",
+      "/faculty/john-ojal.html",
+      "/faculty/mutono-nyamai.html",
+      "/faculty/njoki-kimani.html",
+      "/faculty/patricia-nyokabi.html",
+      "/faculty/purity-wambui.html",
+      "/faculty/ryan-musasia.html",
+      "/faculty/stanley-sayianka.html",
+      "/faculty/stephanie-kamunya.html",
+      "/faculty/tabitha-okech.html",
+      "/faculty/thumbi-mwangi.html",
+      "/faculty/waithera-mwangi.html"
+    ]
+  }
+]
