@@ -1,13 +1,12 @@
 ---
-title: "Ryan Musasia"
+title: "Joy Nthiwa"
 subtitle: "Centre for Epidemiological Modelling and Analysis (CEMA)"
-image: headshots/ryan-musasia.jpg
+image: headshots/joy.jpg
 categories:
   - Mentor
 about:
   template: jolla
-
 ---
 
-I'm a freshly minted Data Scientist who just escaped the clutches of academia and is ready to conquer the data-driven world with wit, charm, and a whole lot of Python magic. My expertise lies in unraveling intricate data puzzles rather than solving crimes. My core competencies revolve around employing machine learning, statistical analysis, and advanced methodologies to extract valuable insights from complex datasets. My passion lies in uncovering concealed information within data and converting it into actionable intelligence that drives informed decision-making. Rest assured, there's no sorcery involved (well, at least not beyond the occasional code magic).
+I am an analytical educator and researcher with a background in statistics and applied mathematics, who holds a Master of Science in statistics from Kenyatta University. She is currently conducting her PhD in Infectious Diseases at the University of Nairobi where she is focusing on epidemiological modelling of schistosomiasis. With experience in statistical analysis, mathematical modeling, and project management, I have actively contributed to the academic community through Scopus-indexed journal publication and conference speaking engagements. In my professional career, I excelled as a Consulting Project Manager, where I oversaw projects, emphasizing efficient resource allocation and implementing strategic process improvements. Additionally, in my role as a Student Assistant at Kenyatta University, I actively participated in outreach programs and supported the department of Statistics and Actuarial Science in creating a positive learning environment. I bring a proven track record in project management and a strong interest in public health. My active analytical ability, excellent communication skills, and adaptability make me an invaluable addition in projects that require a combination of quantitative expertise and effective teamwork.
 

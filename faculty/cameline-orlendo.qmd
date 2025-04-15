@@ -4,8 +4,6 @@ subtitle: "Swiss Tropical and Public Health Institute"
 image: headshots/cameline-orlendo.jpg
 categories:
   - Faculty
-
-
 ---
 
 
